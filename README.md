@@ -91,6 +91,10 @@ Changelog example:
 **12 May 2025. Version 1.100**
 - added to repository
 
+**13 May 2025. Version 1.400**
+- same version number as Aniva Sans
+
+
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
