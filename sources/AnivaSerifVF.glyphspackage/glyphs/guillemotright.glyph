@@ -1,0 +1,109 @@
+{
+glyphname = guillemotright;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+ref = guilsinglright;
+},
+{
+pos = (120,0);
+ref = guilsinglright;
+}
+);
+width = 430;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (52,395);
+type = Stem;
+},
+{
+place = (72,368);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+ref = guilsinglright;
+},
+{
+pos = (155,0);
+ref = guilsinglright;
+}
+);
+width = 460;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = guilsinglright;
+},
+{
+pos = (200,0);
+ref = guilsinglright;
+}
+);
+width = 480;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = guilsinglright;
+},
+{
+pos = (120,0);
+ref = guilsinglright;
+}
+);
+width = 431;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (52,395);
+type = Stem;
+},
+{
+place = (72,368);
+type = Stem;
+}
+);
+layerId = m008;
+shapes = (
+{
+ref = guilsinglright;
+},
+{
+pos = (155,0);
+ref = guilsinglright;
+}
+);
+width = 460;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = guilsinglright;
+},
+{
+pos = (200,0);
+ref = guilsinglright;
+}
+);
+width = 530;
+}
+);
+metricLeft = "=period";
+metricRight = "=period";
+note = guillemotright;
+unicode = 187;
+}

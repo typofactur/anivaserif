@@ -1,0 +1,61 @@
+{
+glyphname = zero.osf;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+ref = zero;
+}
+);
+width = 521;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = zero;
+}
+);
+width = 620;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = zero;
+}
+);
+width = 620;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = zero;
+}
+);
+width = 521;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = zero;
+}
+);
+width = 620;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = zero;
+}
+);
+width = 620;
+}
+);
+metricLeft = zero;
+metricRight = zero;
+}

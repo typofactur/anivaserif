@@ -1,0 +1,105 @@
+{
+glyphname = zero.tf;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+pos = (74,0);
+ref = zero.lf;
+}
+);
+width = 667;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-27,64);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (581,64);
+type = Stem;
+},
+{
+place = (19,94);
+type = Stem;
+},
+{
+place = (409,94);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+pos = (74,0);
+ref = zero.lf;
+}
+);
+width = 667;
+},
+{
+layerId = m006;
+shapes = (
+{
+pos = (34,0);
+ref = zero.lf;
+}
+);
+width = 667;
+},
+{
+layerId = m007;
+shapes = (
+{
+pos = (74,0);
+ref = zero.lf;
+}
+);
+width = 667;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-27,64);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (581,64);
+type = Stem;
+},
+{
+place = (19,94);
+type = Stem;
+},
+{
+place = (409,94);
+type = Stem;
+}
+);
+layerId = m008;
+shapes = (
+{
+pos = (74,0);
+ref = zero.lf;
+}
+);
+width = 667;
+},
+{
+layerId = m009;
+shapes = (
+{
+pos = (34,0);
+ref = zero.lf;
+}
+);
+width = 667;
+}
+);
+}

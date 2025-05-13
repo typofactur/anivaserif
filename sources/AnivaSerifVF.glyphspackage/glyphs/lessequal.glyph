@@ -1,0 +1,95 @@
+{
+glyphname = lessequal;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+pos = (600,0);
+ref = greaterequal;
+scale = (-1,1);
+}
+);
+width = 600;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (85,65);
+type = Stem;
+},
+{
+place = (80,80);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+pos = (600,0);
+ref = greaterequal;
+scale = (-1,1);
+}
+);
+width = 600;
+},
+{
+layerId = m006;
+shapes = (
+{
+pos = (600,0);
+ref = greaterequal;
+scale = (-1,1);
+}
+);
+width = 600;
+},
+{
+layerId = m007;
+shapes = (
+{
+pos = (600,0);
+ref = greaterequal;
+scale = (-1,1);
+}
+);
+width = 600;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (85,65);
+type = Stem;
+},
+{
+place = (80,80);
+type = Stem;
+}
+);
+layerId = m008;
+shapes = (
+{
+pos = (600,0);
+ref = greaterequal;
+scale = (-1,1);
+}
+);
+width = 560;
+},
+{
+layerId = m009;
+shapes = (
+{
+pos = (600,0);
+ref = greaterequal;
+scale = (-1,1);
+}
+);
+width = 600;
+}
+);
+note = lessequal;
+unicode = 8804;
+}

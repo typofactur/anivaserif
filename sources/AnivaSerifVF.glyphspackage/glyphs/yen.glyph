@@ -1,0 +1,213 @@
+{
+glyphname = yen;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+ref = Y;
+},
+{
+closed = 1;
+nodes = (
+(487,239,l),
+(487,289,l),
+(138,289,l),
+(138,239,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(487,124,l),
+(487,174,l),
+(138,174,l),
+(138,124,l)
+);
+}
+);
+width = 550;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (167,50);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (267,50);
+type = Stem;
+},
+{
+place = (217,100);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+ref = Y;
+},
+{
+closed = 1;
+nodes = (
+(481,256,l),
+(481,316,l),
+(107,316,l),
+(107,256,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(481,136,l),
+(481,196,l),
+(107,196,l),
+(107,136,l)
+);
+}
+);
+width = 550;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = Y;
+},
+{
+closed = 1;
+nodes = (
+(550,244,l),
+(550,334,l),
+(126,334,l),
+(126,244,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(550,124,l),
+(550,214,l),
+(126,214,l),
+(126,124,l)
+);
+}
+);
+width = 624;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = Y;
+},
+{
+closed = 1;
+nodes = (
+(487,245,l),
+(487,283,l),
+(138,283,l),
+(138,245,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(487,130,l),
+(487,168,l),
+(138,168,l),
+(138,130,l)
+);
+}
+);
+width = 627;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (167,50);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (267,50);
+type = Stem;
+},
+{
+place = (217,100);
+type = Stem;
+}
+);
+layerId = m008;
+shapes = (
+{
+ref = Y;
+},
+{
+closed = 1;
+nodes = (
+(481,256,l),
+(481,300,l),
+(107,300,l),
+(107,256,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(481,136,l),
+(481,180,l),
+(107,180,l),
+(107,136,l)
+);
+}
+);
+width = 550;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = Y;
+},
+{
+closed = 1;
+nodes = (
+(550,250,l),
+(550,310,l),
+(126,310,l),
+(126,250,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(550,130,l),
+(550,190,l),
+(126,190,l),
+(126,130,l)
+);
+}
+);
+width = 624;
+}
+);
+note = yen;
+unicode = 165;
+}

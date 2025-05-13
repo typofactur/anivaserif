@@ -1,0 +1,62 @@
+{
+glyphname = softhyphen;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+ref = hyphen;
+}
+);
+width = 420;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = hyphen;
+}
+);
+width = 400;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = hyphen;
+}
+);
+width = 330;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = hyphen;
+}
+);
+width = 421;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = hyphen;
+}
+);
+width = 400;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = hyphen;
+}
+);
+width = 380;
+}
+);
+metricLeft = "=period";
+metricRight = "=period";
+unicode = 173;
+}

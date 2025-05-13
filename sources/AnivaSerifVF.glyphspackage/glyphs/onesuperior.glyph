@@ -1,0 +1,90 @@
+{
+export = 0;
+glyphname = onesuperior;
+layers = (
+{
+layerId = m004;
+width = 600;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (325,51);
+type = Stem;
+},
+{
+place = (164,82);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(164,376,l),
+(83,376,l),
+(83,325,l),
+(326,325,l),
+(326,376,l),
+(246,376,l),
+(246,685,l),
+(187,685,l),
+(70,630,l),
+(89,584,l),
+(164,611,l)
+);
+}
+);
+width = 426;
+},
+{
+layerId = m006;
+width = 600;
+},
+{
+layerId = m007;
+width = 600;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (325,51);
+type = Stem;
+},
+{
+place = (164,82);
+type = Stem;
+}
+);
+layerId = m008;
+shapes = (
+{
+closed = 1;
+nodes = (
+(164,376,l),
+(83,376,l),
+(83,325,l),
+(326,325,l),
+(326,376,l),
+(246,376,l),
+(246,685,l),
+(187,685,l),
+(70,630,l),
+(89,584,l),
+(164,611,l)
+);
+}
+);
+width = 426;
+},
+{
+layerId = m009;
+width = 600;
+}
+);
+note = onesuperior;
+unicode = 185;
+}

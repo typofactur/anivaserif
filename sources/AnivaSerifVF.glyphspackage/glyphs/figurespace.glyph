@@ -1,0 +1,31 @@
+{
+glyphname = figurespace;
+layers = (
+{
+layerId = m004;
+width = 667;
+},
+{
+layerId = m005;
+width = 667;
+},
+{
+layerId = m006;
+width = 667;
+},
+{
+layerId = m007;
+width = 667;
+},
+{
+layerId = m008;
+width = 667;
+},
+{
+layerId = m009;
+width = 667;
+}
+);
+metricWidth = zero.tf;
+unicode = 8199;
+}

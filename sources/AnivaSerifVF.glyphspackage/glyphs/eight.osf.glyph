@@ -1,0 +1,61 @@
+{
+glyphname = eight.osf;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+ref = eight;
+}
+);
+width = 513;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = eight;
+}
+);
+width = 512;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = eight;
+}
+);
+width = 552;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = eight;
+}
+);
+width = 513;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = eight;
+}
+);
+width = 512;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = eight;
+}
+);
+width = 552;
+}
+);
+metricLeft = eight;
+metricRight = eight;
+}

@@ -1,0 +1,459 @@
+{
+glyphname = dollar;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(238,-70,l),
+(238,737,l),
+(188,737,l),
+(188,-70,l)
+);
+},
+{
+ref = S;
+}
+);
+width = 440;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-10,77);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (538,142);
+type = Stem;
+},
+{
+place = (35,90);
+type = Stem;
+},
+{
+place = (183,50);
+type = Stem;
+},
+{
+place = (305,109);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-85,152);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(243,-70,l),
+(243,737,l),
+(183,737,l),
+(183,-70,l)
+);
+},
+{
+ref = S;
+}
+);
+width = 456;
+},
+{
+layerId = m006;
+shapes = (
+{
+closed = 1;
+nodes = (
+(293,-70,l),
+(293,737,l),
+(203,737,l),
+(203,-70,l)
+);
+},
+{
+ref = S;
+}
+);
+width = 520;
+},
+{
+associatedMasterId = m004;
+attr = {
+axisRules = (
+{
+min = 500;
+},
+{
+}
+);
+};
+layerId = "B34D2F73-3C47-4B54-B6C0-1EB4AD43E025";
+name = "13. Jan. 24, 13:57";
+shapes = (
+{
+closed = 1;
+nodes = (
+(238,659,l),
+(238,737,l),
+(188,737,l),
+(188,659,l)
+);
+},
+{
+ref = S;
+},
+{
+closed = 1;
+nodes = (
+(188,2,l),
+(188,-70,l),
+(238,-70,l),
+(238,2,l)
+);
+}
+);
+width = 440;
+},
+{
+associatedMasterId = m005;
+attr = {
+axisRules = (
+{
+min = 500;
+},
+{
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+place = (-10,77);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (538,142);
+type = Stem;
+},
+{
+place = (35,90);
+type = Stem;
+},
+{
+place = (183,50);
+type = Stem;
+},
+{
+place = (305,109);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-85,152);
+type = Stem;
+}
+);
+layerId = "557EE530-0CBB-424E-A9B3-D753BCA21EE9";
+name = "13. Jan. 24, 13:58";
+shapes = (
+{
+closed = 1;
+nodes = (
+(243,647,l),
+(243,737,l),
+(183,737,l),
+(183,647,l)
+);
+},
+{
+ref = S;
+},
+{
+closed = 1;
+nodes = (
+(183,21,l),
+(183,-70,l),
+(243,-70,l),
+(243,21,l)
+);
+}
+);
+width = 456;
+},
+{
+associatedMasterId = m006;
+attr = {
+axisRules = (
+{
+min = 500;
+},
+{
+}
+);
+};
+layerId = "6332984C-E030-4FCF-9E11-66CE17FB7428";
+name = "13. Jan. 24, 13:58";
+shapes = (
+{
+closed = 1;
+nodes = (
+(293,627,l),
+(293,737,l),
+(203,737,l),
+(203,627,l)
+);
+},
+{
+ref = S;
+},
+{
+closed = 1;
+nodes = (
+(203,38,l),
+(203,-70,l),
+(293,-70,l),
+(293,38,l)
+);
+}
+);
+width = 520;
+},
+{
+layerId = m007;
+shapes = (
+{
+closed = 1;
+nodes = (
+(238,-70,l),
+(238,737,l),
+(188,737,l),
+(188,-70,l)
+);
+},
+{
+ref = S;
+}
+);
+width = 440;
+},
+{
+associatedMasterId = m007;
+attr = {
+axisRules = (
+{
+min = 500;
+},
+{
+}
+);
+};
+layerId = "7BF0DF16-5E76-4501-BAA6-65CBECFB9C4B";
+name = "13. Jan. 24, 13:57";
+shapes = (
+{
+closed = 1;
+nodes = (
+(238,659,l),
+(238,737,l),
+(188,737,l),
+(188,659,l)
+);
+},
+{
+ref = S;
+},
+{
+closed = 1;
+nodes = (
+(188,2,l),
+(188,-70,l),
+(238,-70,l),
+(238,2,l)
+);
+}
+);
+width = 440;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-10,77);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (538,142);
+type = Stem;
+},
+{
+place = (35,90);
+type = Stem;
+},
+{
+place = (183,50);
+type = Stem;
+},
+{
+place = (305,109);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-85,152);
+type = Stem;
+}
+);
+layerId = m008;
+shapes = (
+{
+closed = 1;
+nodes = (
+(243,-70,l),
+(243,737,l),
+(183,737,l),
+(183,-70,l)
+);
+},
+{
+ref = S;
+}
+);
+width = 456;
+},
+{
+associatedMasterId = m008;
+attr = {
+axisRules = (
+{
+min = 500;
+},
+{
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+place = (-10,77);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (538,142);
+type = Stem;
+},
+{
+place = (35,90);
+type = Stem;
+},
+{
+place = (183,50);
+type = Stem;
+},
+{
+place = (305,109);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-85,152);
+type = Stem;
+}
+);
+layerId = "F9F2A47B-9E59-4AF4-9A4D-0B3408B88D53";
+name = "13. Jan. 24, 13:58";
+shapes = (
+{
+closed = 1;
+nodes = (
+(243,647,l),
+(243,737,l),
+(183,737,l),
+(183,647,l)
+);
+},
+{
+ref = S;
+},
+{
+closed = 1;
+nodes = (
+(183,21,l),
+(183,-70,l),
+(243,-70,l),
+(243,21,l)
+);
+}
+);
+width = 456;
+},
+{
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(293,-70,l),
+(293,737,l),
+(203,737,l),
+(203,-70,l)
+);
+},
+{
+ref = S;
+}
+);
+width = 520;
+},
+{
+associatedMasterId = m009;
+attr = {
+axisRules = (
+{
+min = 500;
+},
+{
+}
+);
+};
+layerId = "DEB975DE-9A18-4CCF-9F60-2F4BEC9E567A";
+name = "13. Jan. 24, 13:58";
+shapes = (
+{
+closed = 1;
+nodes = (
+(293,627,l),
+(293,737,l),
+(203,737,l),
+(203,627,l)
+);
+},
+{
+ref = S;
+},
+{
+closed = 1;
+nodes = (
+(203,38,l),
+(203,-70,l),
+(293,-70,l),
+(293,38,l)
+);
+}
+);
+width = 520;
+}
+);
+note = dollar;
+unicode = 36;
+}

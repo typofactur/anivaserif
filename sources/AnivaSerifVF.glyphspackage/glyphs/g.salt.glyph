@@ -1,0 +1,59 @@
+{
+glyphname = g.salt;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+ref = g.ss01;
+}
+);
+width = 494;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = g.ss01;
+}
+);
+width = 495;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = g.ss01;
+}
+);
+width = 555;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = g.ss01;
+}
+);
+width = 494;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = g.ss01;
+}
+);
+width = 495;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = g.ss01;
+}
+);
+width = 535;
+}
+);
+}

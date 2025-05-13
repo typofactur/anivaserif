@@ -1,0 +1,30 @@
+{
+glyphname = "mediumspace-math";
+layers = (
+{
+layerId = m004;
+width = 222;
+},
+{
+layerId = m005;
+width = 222;
+},
+{
+layerId = m006;
+width = 222;
+},
+{
+layerId = m007;
+width = 222;
+},
+{
+layerId = m008;
+width = 222;
+},
+{
+layerId = m009;
+width = 222;
+}
+);
+unicode = 8287;
+}

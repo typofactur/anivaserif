@@ -1,0 +1,30 @@
+{
+glyphname = sixperemspace;
+layers = (
+{
+layerId = m004;
+width = 167;
+},
+{
+layerId = m005;
+width = 167;
+},
+{
+layerId = m006;
+width = 167;
+},
+{
+layerId = m007;
+width = 167;
+},
+{
+layerId = m008;
+width = 167;
+},
+{
+layerId = m009;
+width = 167;
+}
+);
+unicode = 8198;
+}

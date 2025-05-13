@@ -1,0 +1,84 @@
+{
+glyphname = jcircumflex;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (-131,-10);
+ref = circumflexcomb;
+}
+);
+width = 238;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (-130,-10);
+ref = circumflexcomb;
+}
+);
+width = 239;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (-87,-10);
+ref = circumflexcomb;
+}
+);
+width = 325;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (-131,-10);
+ref = circumflexcomb;
+}
+);
+width = 238;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (-130,-10);
+ref = circumflexcomb;
+}
+);
+width = 239;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (-97,-10);
+ref = circumflexcomb;
+}
+);
+width = 305;
+}
+);
+unicode = 309;
+}

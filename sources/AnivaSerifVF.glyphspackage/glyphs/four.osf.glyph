@@ -1,0 +1,61 @@
+{
+glyphname = four.osf;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+ref = four;
+}
+);
+width = 519;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = four;
+}
+);
+width = 525;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = four;
+}
+);
+width = 622;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = four;
+}
+);
+width = 519;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = four;
+}
+);
+width = 525;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = four;
+}
+);
+width = 622;
+}
+);
+metricLeft = four;
+metricRight = four;
+}

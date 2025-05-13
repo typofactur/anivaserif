@@ -1,0 +1,523 @@
+{
+glyphname = H;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (325,0);
+},
+{
+name = center;
+pos = (325,500);
+},
+{
+name = top;
+pos = (325,667);
+},
+{
+name = topleft;
+pos = (20,667);
+}
+);
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(187,315,l),
+(462,315,l),
+(462,0,l),
+(537,0,l),
+(537,667,l),
+(462,667,l),
+(462,365,l),
+(187,365,l),
+(187,667,l),
+(112,667,l),
+(112,0,l),
+(187,0,l)
+);
+},
+{
+pos = (462,0);
+ref = _serif.H;
+},
+{
+pos = (537,0);
+ref = _serif.H;
+scale = (-1,1);
+},
+{
+pos = (112,0);
+ref = _serif.H;
+},
+{
+pos = (187,0);
+ref = _serif.H;
+scale = (-1,1);
+},
+{
+pos = (462,667);
+ref = _serif.H;
+scale = (1,-1);
+},
+{
+angle = 180;
+pos = (537,667);
+ref = _serif.H;
+},
+{
+pos = (112,667);
+ref = _serif.H;
+scale = (1,-1);
+},
+{
+angle = 180;
+pos = (187,667);
+ref = _serif.H;
+}
+);
+width = 649;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (324,0);
+},
+{
+name = center;
+pos = (324,500);
+},
+{
+name = top;
+pos = (324,667);
+},
+{
+name = topleft;
+pos = (20,667);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (25,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (330,100);
+type = Stem;
+},
+{
+place = (95,125);
+type = Stem;
+},
+{
+place = (455,125);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(199,310,l),
+(449,310,l),
+(449,0,l),
+(549,0,l),
+(549,667,l),
+(449,667,l),
+(450,370,l),
+(200,370,l),
+(199,667,l),
+(99,667,l),
+(99,0,l),
+(199,0,l)
+);
+},
+{
+pos = (449,0);
+ref = _serif.H;
+},
+{
+pos = (549,0);
+ref = _serif.H;
+scale = (-1,1);
+},
+{
+pos = (99,0);
+ref = _serif.H;
+},
+{
+pos = (199,0);
+ref = _serif.H;
+scale = (-1,1);
+},
+{
+pos = (449,667);
+ref = _serif.H;
+scale = (1,-1);
+},
+{
+angle = 180;
+pos = (549,667);
+ref = _serif.H;
+},
+{
+pos = (99,667);
+ref = _serif.H;
+scale = (1,-1);
+},
+{
+angle = 180;
+pos = (199,667);
+ref = _serif.H;
+}
+);
+width = 648;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (344,0);
+},
+{
+name = center;
+pos = (344,500);
+},
+{
+name = top;
+pos = (344,667);
+},
+{
+name = topleft;
+pos = (20,667);
+}
+);
+layerId = m006;
+shapes = (
+{
+closed = 1;
+nodes = (
+(269,295,l),
+(419,295,l),
+(419,0,l),
+(619,0,l),
+(619,667,l),
+(419,667,l),
+(419,385,l),
+(269,385,l),
+(269,667,l),
+(69,667,l),
+(69,0,l),
+(269,0,l)
+);
+},
+{
+pos = (419,0);
+ref = _serif.H;
+},
+{
+pos = (619,0);
+ref = _serif.H;
+scale = (-1,1);
+},
+{
+pos = (69,0);
+ref = _serif.H;
+},
+{
+pos = (269,0);
+ref = _serif.H;
+scale = (-1,1);
+},
+{
+pos = (419,667);
+ref = _serif.H;
+scale = (1,-1);
+},
+{
+angle = 180;
+pos = (619,667);
+ref = _serif.H;
+},
+{
+pos = (69,667);
+ref = _serif.H;
+scale = (1,-1);
+},
+{
+angle = 180;
+pos = (269,667);
+ref = _serif.H;
+}
+);
+width = 688;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (325,0);
+},
+{
+name = center;
+pos = (325,500);
+},
+{
+name = top;
+pos = (325,667);
+},
+{
+name = topleft;
+pos = (20,667);
+}
+);
+layerId = m007;
+shapes = (
+{
+closed = 1;
+nodes = (
+(187,321,l),
+(462,321,l),
+(462,0,l),
+(537,0,l),
+(537,667,l),
+(462,667,l),
+(462,359,l),
+(187,359,l),
+(187,667,l),
+(112,667,l),
+(112,0,l),
+(187,0,l)
+);
+},
+{
+pos = (462,0);
+ref = _serif.H;
+},
+{
+pos = (537,0);
+ref = _serif.H;
+scale = (-1,1);
+},
+{
+pos = (112,0);
+ref = _serif.H;
+},
+{
+pos = (187,0);
+ref = _serif.H;
+scale = (-1,1);
+},
+{
+pos = (462,667);
+ref = _serif.H;
+scale = (1,-1);
+},
+{
+angle = 180;
+pos = (537,667);
+ref = _serif.H;
+},
+{
+pos = (112,667);
+ref = _serif.H;
+scale = (1,-1);
+},
+{
+angle = 180;
+pos = (187,667);
+ref = _serif.H;
+}
+);
+width = 649;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (324,0);
+},
+{
+name = center;
+pos = (324,500);
+},
+{
+name = top;
+pos = (324,667);
+},
+{
+name = topleft;
+pos = (20,667);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (25,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (330,100);
+type = Stem;
+},
+{
+place = (95,125);
+type = Stem;
+},
+{
+place = (455,125);
+type = Stem;
+}
+);
+layerId = m008;
+shapes = (
+{
+closed = 1;
+nodes = (
+(199,318,l),
+(449,318,l),
+(449,0,l),
+(549,0,l),
+(549,667,l),
+(449,667,l),
+(449,362,l),
+(199,362,l),
+(199,667,l),
+(99,667,l),
+(99,0,l),
+(199,0,l)
+);
+},
+{
+pos = (449,0);
+ref = _serif.H;
+},
+{
+pos = (549,0);
+ref = _serif.H;
+scale = (-1,1);
+},
+{
+pos = (99,0);
+ref = _serif.H;
+},
+{
+pos = (199,0);
+ref = _serif.H;
+scale = (-1,1);
+},
+{
+pos = (449,667);
+ref = _serif.H;
+scale = (1,-1);
+},
+{
+angle = 180;
+pos = (549,667);
+ref = _serif.H;
+},
+{
+pos = (99,667);
+ref = _serif.H;
+scale = (1,-1);
+},
+{
+angle = 180;
+pos = (199,667);
+ref = _serif.H;
+}
+);
+width = 648;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (344,0);
+},
+{
+name = center;
+pos = (344,500);
+},
+{
+name = top;
+pos = (344,667);
+},
+{
+name = topleft;
+pos = (20,667);
+}
+);
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(269,310,l),
+(419,310,l),
+(419,0,l),
+(619,0,l),
+(619,667,l),
+(419,667,l),
+(419,370,l),
+(269,370,l),
+(269,667,l),
+(69,667,l),
+(69,0,l),
+(269,0,l)
+);
+},
+{
+pos = (419,0);
+ref = _serif.H;
+},
+{
+pos = (619,0);
+ref = _serif.H;
+scale = (-1,1);
+},
+{
+pos = (69,0);
+ref = _serif.H;
+},
+{
+pos = (269,0);
+ref = _serif.H;
+scale = (-1,1);
+},
+{
+pos = (419,667);
+ref = _serif.H;
+scale = (1,-1);
+},
+{
+angle = 180;
+pos = (619,667);
+ref = _serif.H;
+},
+{
+pos = (69,667);
+ref = _serif.H;
+scale = (1,-1);
+},
+{
+angle = 180;
+pos = (269,667);
+ref = _serif.H;
+}
+);
+width = 688;
+}
+);
+note = H;
+unicode = 72;
+}

@@ -1,0 +1,61 @@
+{
+glyphname = two.osf;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+ref = two;
+}
+);
+width = 483;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = two;
+}
+);
+width = 494;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = two;
+}
+);
+width = 564;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = two;
+}
+);
+width = 483;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = two;
+}
+);
+width = 495;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = two;
+}
+);
+width = 564;
+}
+);
+metricLeft = two;
+metricRight = two;
+}

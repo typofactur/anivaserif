@@ -1,0 +1,153 @@
+{
+glyphname = eth;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+pos = (527,0);
+ref = six;
+scale = (-1,1);
+},
+{
+angle = 45;
+pos = (274,240);
+ref = hyphen;
+}
+);
+width = 527;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (15,95);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (365,95);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (637,90);
+type = Stem;
+},
+{
+place = (49,137);
+type = Stem;
+},
+{
+place = (389,142);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+pos = (592,0);
+ref = six;
+scale = (-1,1);
+},
+{
+angle = 45;
+pos = (325,258);
+ref = hyphen;
+}
+);
+width = 592;
+},
+{
+layerId = m006;
+shapes = (
+{
+pos = (597,0);
+ref = six;
+scale = (-1,1);
+},
+{
+angle = 45;
+pos = (352,270);
+ref = hyphen;
+}
+);
+width = 597;
+},
+{
+layerId = m007;
+shapes = (
+{
+pos = (527,0);
+ref = six;
+scale = (-1,1);
+},
+{
+angle = 45;
+pos = (274,240);
+ref = hyphen;
+}
+);
+width = 527;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (15,95);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (365,95);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (637,90);
+type = Stem;
+},
+{
+place = (49,137);
+type = Stem;
+},
+{
+place = (389,142);
+type = Stem;
+}
+);
+layerId = m008;
+shapes = (
+{
+pos = (592,0);
+ref = six;
+scale = (-1,1);
+},
+{
+angle = 45;
+pos = (325,258);
+ref = hyphen;
+}
+);
+width = 592;
+},
+{
+layerId = m009;
+shapes = (
+{
+pos = (587,0);
+ref = six;
+scale = (-1,1);
+},
+{
+angle = 45;
+pos = (342,270);
+ref = hyphen;
+}
+);
+width = 577;
+}
+);
+note = eth;
+unicode = 240;
+}

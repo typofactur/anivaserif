@@ -1,0 +1,131 @@
+{
+glyphname = eight.tf;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+pos = (78,0);
+ref = eight.lf;
+}
+);
+width = 667;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (83,163);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (419,163);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (701,162);
+type = Stem;
+},
+{
+place = (142,198);
+type = Stem;
+},
+{
+place = (457,205);
+type = Stem;
+},
+{
+place = (117,205);
+type = Stem;
+},
+{
+place = (438,198);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+pos = (78,0);
+ref = eight.lf;
+}
+);
+width = 667;
+},
+{
+layerId = m006;
+shapes = (
+{
+pos = (58,0);
+ref = eight.lf;
+}
+);
+width = 667;
+},
+{
+layerId = m007;
+shapes = (
+{
+pos = (78,0);
+ref = eight.lf;
+}
+);
+width = 667;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (83,163);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (419,163);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (701,162);
+type = Stem;
+},
+{
+place = (142,198);
+type = Stem;
+},
+{
+place = (457,205);
+type = Stem;
+},
+{
+place = (117,205);
+type = Stem;
+},
+{
+place = (438,198);
+type = Stem;
+}
+);
+layerId = m008;
+shapes = (
+{
+pos = (78,0);
+ref = eight.lf;
+}
+);
+width = 667;
+},
+{
+layerId = m009;
+shapes = (
+{
+pos = (58,0);
+ref = eight.lf;
+}
+);
+width = 667;
+}
+);
+}

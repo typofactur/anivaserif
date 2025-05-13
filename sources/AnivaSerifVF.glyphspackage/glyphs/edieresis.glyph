@@ -1,0 +1,84 @@
+{
+glyphname = edieresis;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (4,0);
+ref = dieresiscomb;
+}
+);
+width = 464;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (5,0);
+ref = dieresiscomb;
+}
+);
+width = 465;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (35,0);
+ref = dieresiscomb;
+}
+);
+width = 525;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (4,0);
+ref = dieresiscomb;
+}
+);
+width = 464;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (5,-50);
+ref = dieresiscomb;
+}
+);
+width = 465;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (25,0);
+ref = dieresiscomb;
+}
+);
+width = 505;
+}
+);
+unicode = 235;
+}

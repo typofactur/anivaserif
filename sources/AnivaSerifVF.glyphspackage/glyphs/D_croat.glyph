@@ -1,0 +1,60 @@
+{
+glyphname = Dcroat;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+ref = Eth;
+}
+);
+width = 552;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = Eth;
+}
+);
+width = 543;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = Eth;
+}
+);
+width = 614;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = Eth;
+}
+);
+width = 552;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = Eth;
+}
+);
+width = 543;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = Eth;
+}
+);
+width = 614;
+}
+);
+unicode = 272;
+}

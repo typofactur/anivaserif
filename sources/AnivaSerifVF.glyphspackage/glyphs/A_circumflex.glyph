@@ -1,0 +1,86 @@
+{
+glyphname = Acircumflex;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (74,125);
+ref = circumflexcomb;
+}
+);
+width = 651;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (62,167);
+ref = circumflexcomb;
+}
+);
+width = 640;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (81,167);
+ref = circumflexcomb;
+}
+);
+width = 768;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (70,167);
+ref = circumflexcomb;
+}
+);
+width = 649;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (62,167);
+ref = circumflexcomb;
+}
+);
+width = 640;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (51,167);
+ref = circumflexcomb;
+}
+);
+width = 738;
+}
+);
+unicode = 194;
+}

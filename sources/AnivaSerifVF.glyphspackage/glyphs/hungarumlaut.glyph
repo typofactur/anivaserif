@@ -1,0 +1,233 @@
+{
+glyphname = hungarumlaut;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (236,500);
+},
+{
+name = top;
+pos = (236,725);
+}
+);
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(242,725,l),
+(204,725,l),
+(104,525,l),
+(127,525,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(367,725,l),
+(329,725,l),
+(229,525,l),
+(252,525,l)
+);
+}
+);
+width = 480;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (241,500);
+},
+{
+name = top;
+pos = (241,725);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (500,200);
+type = Stem;
+},
+{
+place = (88,295);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(263,725,l),
+(193,725,l),
+(93,525,l),
+(148,525,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(388,725,l),
+(318,725,l),
+(218,525,l),
+(273,525,l)
+);
+}
+);
+width = 480;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (241,500);
+},
+{
+name = top;
+pos = (241,725);
+}
+);
+layerId = m006;
+shapes = (
+{
+closed = 1;
+nodes = (
+(279,725,l),
+(177,725,l),
+(77,525,l),
+(164,525,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(404,725,l),
+(302,725,l),
+(202,525,l),
+(289,525,l)
+);
+}
+);
+width = 480;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (236,500);
+},
+{
+name = top;
+pos = (236,725);
+}
+);
+layerId = m007;
+shapes = (
+{
+closed = 1;
+nodes = (
+(242,725,l),
+(204,725,l),
+(104,525,l),
+(127,525,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(367,725,l),
+(329,725,l),
+(229,525,l),
+(252,525,l)
+);
+}
+);
+width = 480;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (241,500);
+},
+{
+name = top;
+pos = (241,725);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (500,200);
+type = Stem;
+},
+{
+place = (88,295);
+type = Stem;
+}
+);
+layerId = m008;
+shapes = (
+{
+closed = 1;
+nodes = (
+(263,725,l),
+(193,725,l),
+(93,525,l),
+(148,525,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(388,725,l),
+(318,725,l),
+(218,525,l),
+(273,525,l)
+);
+}
+);
+width = 480;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (241,500);
+},
+{
+name = top;
+pos = (241,725);
+}
+);
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(279,725,l),
+(177,725,l),
+(77,525,l),
+(164,525,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(404,725,l),
+(302,725,l),
+(202,525,l),
+(289,525,l)
+);
+}
+);
+width = 480;
+}
+);
+note = hungarumlaut;
+unicode = 733;
+}

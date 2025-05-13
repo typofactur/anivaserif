@@ -1,0 +1,84 @@
+{
+glyphname = Cacute;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+ref = C;
+},
+{
+pos = (48,167);
+ref = acutecomb;
+}
+);
+width = 506;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = C;
+},
+{
+pos = (48,167);
+ref = acutecomb;
+}
+);
+width = 511;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = C;
+},
+{
+pos = (49,167);
+ref = acutecomb;
+}
+);
+width = 537;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = C;
+},
+{
+pos = (48,167);
+ref = acutecomb;
+}
+);
+width = 506;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = C;
+},
+{
+pos = (48,167);
+ref = acutecomb;
+}
+);
+width = 511;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = C;
+},
+{
+pos = (49,167);
+ref = acutecomb;
+}
+);
+width = 537;
+}
+);
+unicode = 262;
+}

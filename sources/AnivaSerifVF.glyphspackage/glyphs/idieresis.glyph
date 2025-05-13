@@ -1,0 +1,84 @@
+{
+glyphname = idieresis;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-104,-10);
+ref = dieresiscomb;
+}
+);
+width = 272;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-103,-10);
+ref = dieresiscomb;
+}
+);
+width = 273;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-61,-10);
+ref = dieresiscomb;
+}
+);
+width = 358;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-104,-10);
+ref = dieresiscomb;
+}
+);
+width = 272;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-103,-10);
+ref = dieresiscomb;
+}
+);
+width = 273;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-71,-10);
+ref = dieresiscomb;
+}
+);
+width = 338;
+}
+);
+unicode = 239;
+}

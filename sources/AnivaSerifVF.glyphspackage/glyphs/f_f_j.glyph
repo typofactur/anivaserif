@@ -1,0 +1,92 @@
+{
+glyphname = f_f_j;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+ref = _doublef;
+},
+{
+alignment = -1;
+pos = (326,0);
+ref = f_j;
+}
+);
+width = 899;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = _doublef;
+},
+{
+alignment = -1;
+pos = (319,0);
+ref = f_j;
+}
+);
+width = 922;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = _doublef;
+},
+{
+alignment = -1;
+pos = (386,0);
+ref = f_j;
+}
+);
+width = 1107;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = _doublef;
+},
+{
+alignment = -1;
+pos = (336,0);
+ref = f_j;
+}
+);
+width = 919;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = _doublef;
+},
+{
+alignment = -1;
+pos = (331,0);
+ref = f_j;
+}
+);
+width = 944;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = _doublef;
+},
+{
+alignment = -1;
+pos = (366,0);
+ref = f_j;
+}
+);
+width = 1046;
+}
+);
+metricLeft = "=f";
+metricRight = "=j";
+note = ffi;
+}

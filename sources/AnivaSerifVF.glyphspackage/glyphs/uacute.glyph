@@ -1,0 +1,84 @@
+{
+glyphname = uacute;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (30,-10);
+ref = acutecomb;
+}
+);
+width = 562;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (31,-10);
+ref = acutecomb;
+}
+);
+width = 563;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (73,-10);
+ref = acutecomb;
+}
+);
+width = 648;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (30,-10);
+ref = acutecomb;
+}
+);
+width = 562;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (18,0);
+ref = acutecomb;
+}
+);
+width = 563;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (63,-10);
+ref = acutecomb;
+}
+);
+width = 628;
+}
+);
+unicode = 250;
+}

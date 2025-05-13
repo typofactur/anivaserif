@@ -1,0 +1,145 @@
+{
+glyphname = f_f;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+alignment = -1;
+pos = (326,0);
+ref = f;
+},
+{
+ref = _doublef;
+}
+);
+width = 651;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (435,65);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (640,61);
+type = Stem;
+},
+{
+place = (80,95.5);
+type = Stem;
+},
+{
+place = (390,95.5);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+alignment = -1;
+pos = (319,0);
+ref = f;
+},
+{
+ref = _doublef;
+}
+);
+width = 673;
+},
+{
+layerId = m006;
+shapes = (
+{
+alignment = -1;
+pos = (386,0);
+ref = f;
+},
+{
+ref = _doublef;
+}
+);
+width = 772;
+},
+{
+layerId = m007;
+shapes = (
+{
+alignment = -1;
+pos = (336,0);
+ref = f;
+},
+{
+ref = _doublef;
+}
+);
+width = 671;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (435,65);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (640,61);
+type = Stem;
+},
+{
+place = (80,95.5);
+type = Stem;
+},
+{
+place = (390,95.5);
+type = Stem;
+}
+);
+layerId = m008;
+shapes = (
+{
+alignment = -1;
+pos = (331,0);
+ref = f;
+},
+{
+ref = _doublef;
+}
+);
+width = 695;
+},
+{
+layerId = m009;
+shapes = (
+{
+alignment = -1;
+pos = (366,0);
+ref = f;
+},
+{
+ref = _doublef;
+}
+);
+width = 732;
+}
+);
+metricLeft = "=f";
+metricRight = "=f";
+note = ff;
+unicode = 64256;
+}

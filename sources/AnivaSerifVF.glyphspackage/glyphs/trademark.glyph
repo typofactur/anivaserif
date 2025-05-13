@@ -1,0 +1,85 @@
+{
+glyphname = trademark;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (490,0);
+ref = M;
+}
+);
+width = 1354;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (500,0);
+ref = M;
+}
+);
+width = 1318;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (590,0);
+ref = M;
+}
+);
+width = 1496;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (490,0);
+ref = M;
+}
+);
+width = 1354;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (500,0);
+ref = M;
+}
+);
+width = 1306;
+},
+{
+layerId = m009;
+shapes = (
+{
+alignment = -1;
+ref = T;
+},
+{
+pos = (490,0);
+ref = M;
+}
+);
+width = 1296;
+}
+);
+unicode = 8482;
+}

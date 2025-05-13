@@ -1,0 +1,84 @@
+{
+glyphname = Sacute;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (-49,167);
+ref = acutecomb;
+}
+);
+width = 452;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (-44,167);
+ref = acutecomb;
+}
+);
+width = 450;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (-14,167);
+ref = acutecomb;
+}
+);
+width = 520;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (-49,167);
+ref = acutecomb;
+}
+);
+width = 452;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (-44,167);
+ref = acutecomb;
+}
+);
+width = 450;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (-14,167);
+ref = acutecomb;
+}
+);
+width = 520;
+}
+);
+unicode = 346;
+}

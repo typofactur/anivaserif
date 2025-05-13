@@ -1,0 +1,74 @@
+{
+glyphname = nine;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+angle = 180;
+pos = (517,600);
+ref = six;
+}
+);
+width = 517;
+},
+{
+layerId = m005;
+shapes = (
+{
+angle = 180;
+pos = (517,600);
+ref = six;
+}
+);
+width = 517;
+},
+{
+layerId = m006;
+shapes = (
+{
+angle = 180;
+pos = (587,600);
+ref = six;
+}
+);
+width = 587;
+},
+{
+layerId = m007;
+shapes = (
+{
+angle = 180;
+pos = (517,600);
+ref = six;
+}
+);
+width = 517;
+},
+{
+layerId = m008;
+shapes = (
+{
+angle = 180;
+pos = (517,600);
+ref = six;
+}
+);
+width = 517;
+},
+{
+layerId = m009;
+shapes = (
+{
+angle = 180;
+pos = (577,600);
+ref = six;
+}
+);
+width = 577;
+}
+);
+metricLeft = six;
+metricRight = six;
+unicode = 57;
+}

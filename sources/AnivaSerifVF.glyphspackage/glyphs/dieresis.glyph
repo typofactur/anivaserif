@@ -1,0 +1,92 @@
+{
+glyphname = dieresis;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+pos = (2,0);
+ref = dieresiscomb;
+}
+);
+width = 480;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (600,105);
+type = Stem;
+},
+{
+place = (118,105);
+type = Stem;
+},
+{
+place = (268,105);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+ref = dieresiscomb;
+}
+);
+width = 480;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = dieresiscomb;
+}
+);
+width = 480;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = dieresiscomb;
+}
+);
+width = 480;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (600,105);
+type = Stem;
+},
+{
+place = (118,105);
+type = Stem;
+},
+{
+place = (268,105);
+type = Stem;
+}
+);
+layerId = m008;
+shapes = (
+{
+ref = dieresiscomb;
+}
+);
+width = 480;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = dieresiscomb;
+}
+);
+width = 480;
+}
+);
+note = dieresis;
+unicode = 168;
+}

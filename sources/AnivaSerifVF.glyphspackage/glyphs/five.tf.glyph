@@ -1,0 +1,115 @@
+{
+glyphname = five.tf;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+pos = (94,0);
+ref = five.lf;
+}
+);
+width = 667;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (70,151);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (445,153);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (678,151);
+type = Stem;
+},
+{
+place = (110,178);
+type = Stem;
+},
+{
+place = (421,197);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+pos = (95,0);
+ref = five.lf;
+}
+);
+width = 667;
+},
+{
+layerId = m006;
+shapes = (
+{
+pos = (54,0);
+ref = five.lf;
+}
+);
+width = 667;
+},
+{
+layerId = m007;
+shapes = (
+{
+pos = (94,0);
+ref = five.lf;
+}
+);
+width = 667;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (70,151);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (445,153);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (678,151);
+type = Stem;
+},
+{
+place = (110,178);
+type = Stem;
+},
+{
+place = (421,197);
+type = Stem;
+}
+);
+layerId = m008;
+shapes = (
+{
+pos = (95,0);
+ref = five.lf;
+}
+);
+width = 667;
+},
+{
+layerId = m009;
+shapes = (
+{
+pos = (54,0);
+ref = five.lf;
+}
+);
+width = 667;
+}
+);
+}

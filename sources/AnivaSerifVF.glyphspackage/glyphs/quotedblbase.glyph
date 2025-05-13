@@ -1,0 +1,127 @@
+{
+glyphname = quotedblbase;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+ref = comma;
+},
+{
+pos = (155,0);
+ref = comma;
+}
+);
+width = 363;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-150,35);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-5,120);
+type = Stem;
+},
+{
+place = (125,51);
+type = Stem;
+},
+{
+place = (301,51);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+ref = comma;
+},
+{
+pos = (195,0);
+ref = comma;
+}
+);
+width = 440;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = comma;
+},
+{
+pos = (255,0);
+ref = comma;
+}
+);
+width = 530;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = comma;
+},
+{
+pos = (155,0);
+ref = comma;
+}
+);
+width = 420;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-150,35);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-5,120);
+type = Stem;
+},
+{
+place = (125,51);
+type = Stem;
+},
+{
+place = (301,51);
+type = Stem;
+}
+);
+layerId = m008;
+shapes = (
+{
+ref = comma;
+},
+{
+pos = (195,0);
+ref = comma;
+}
+);
+width = 440;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = comma;
+},
+{
+pos = (255,0);
+ref = comma;
+}
+);
+width = 530;
+}
+);
+metricLeft = "=comma";
+metricRight = "=comma";
+note = quotedblbase;
+unicode = 8222;
+}

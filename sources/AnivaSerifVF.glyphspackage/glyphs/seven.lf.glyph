@@ -1,0 +1,67 @@
+{
+glyphname = seven.lf;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+pos = (0,67);
+ref = seven;
+}
+);
+width = 454;
+},
+{
+layerId = m005;
+shapes = (
+{
+pos = (0,67);
+ref = seven;
+}
+);
+width = 466;
+},
+{
+layerId = m006;
+shapes = (
+{
+pos = (0,67);
+ref = seven;
+}
+);
+width = 521;
+},
+{
+layerId = m007;
+shapes = (
+{
+pos = (0,67);
+ref = seven;
+}
+);
+width = 454;
+},
+{
+layerId = m008;
+shapes = (
+{
+pos = (0,67);
+ref = seven;
+}
+);
+width = 466;
+},
+{
+layerId = m009;
+shapes = (
+{
+pos = (0,67);
+ref = seven;
+}
+);
+width = 521;
+}
+);
+metricLeft = seven;
+metricRight = seven;
+}

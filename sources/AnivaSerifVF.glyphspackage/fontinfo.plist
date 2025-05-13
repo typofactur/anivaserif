@@ -1,0 +1,1563 @@
+{
+.appVersion = "3343";
+.formatVersion = 3;
+axes = (
+{
+name = Weight;
+tag = wght;
+},
+{
+name = "Optical size";
+tag = opsz;
+}
+);
+customParameters = (
+{
+name = panose;
+value = (
+0,
+0,
+5,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+);
+},
+{
+name = unicodeRanges;
+value = (
+0,
+1
+);
+},
+{
+name = codePageRanges;
+value = (
+"1252",
+"bit 29"
+);
+},
+{
+name = blueScale;
+value = 0.037;
+}
+);
+date = "2025-04-21 21:40:04 +0000";
+familyName = "Aniva Serif";
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn NLD;
+";
+name = Languagesystems;
+}
+);
+features = (
+{
+automatic = 1;
+code = "feature locl;
+feature pnum;
+feature tnum;
+feature onum;
+feature case;
+feature salt;
+feature ss01;
+feature ss02;
+feature lnum;
+feature zero;
+";
+tag = aalt;
+},
+{
+code = "script DFLT;
+language dflt;
+lookup SUB_0 {
+	sub one slash two by onehalf;
+	sub one slash four by onequarter;
+	sub three slash four by threequarters;
+} SUB_0;
+script grek;
+language dflt;
+lookup SUB_0;
+script latn;
+language dflt;
+lookup SUB_0;
+";
+disabled = 1;
+tag = frac;
+},
+{
+automatic = 1;
+code = "lookup ccmp_DFLT_1 {
+	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	lookupflag UseMarkFilteringSet @CombiningTopAccents;
+	sub i' @CombiningTopAccents by idotless;
+	sub j' @CombiningTopAccents by jdotless;
+} ccmp_DFLT_1;
+";
+tag = ccmp;
+},
+{
+automatic = 1;
+code = "script latn;
+language NLD;
+lookup locl_latn_0 {
+	sub iacute j' by jacute;
+	sub Iacute J' by Jacute;
+} locl_latn_0;
+";
+tag = locl;
+},
+{
+automatic = 1;
+code = "sub zero.tf by zero.lf;
+sub one.tf by one.lf;
+sub two.tf by two.lf;
+sub three.tf by three.lf;
+sub four.tf by four.lf;
+sub five.tf by five.lf;
+sub six.tf by six.lf;
+sub seven.tf by seven.lf;
+sub eight.tf by eight.lf;
+sub nine.tf by nine.lf;
+sub zero by zero.osf;
+sub one by one.osf;
+sub two by two.osf;
+sub three by three.osf;
+sub four by four.osf;
+sub five by five.osf;
+sub six by six.osf;
+sub seven by seven.osf;
+sub eight by eight.osf;
+sub nine by nine.osf;
+";
+tag = pnum;
+},
+{
+automatic = 1;
+code = "sub zero.lf by zero.tf;
+sub one.lf by one.tf;
+sub two.lf by two.tf;
+sub three.lf by three.tf;
+sub four.lf by four.tf;
+sub five.lf by five.tf;
+sub six.lf by six.tf;
+sub seven.lf by seven.tf;
+sub eight.lf by eight.tf;
+sub nine.lf by nine.tf;
+sub zero.osf by zero;
+sub one.osf by one;
+sub two.osf by two;
+sub three.osf by three;
+sub four.osf by four;
+sub five.osf by five;
+sub six.osf by six;
+sub seven.osf by seven;
+sub eight.osf by eight;
+sub nine.osf by nine;
+sub zero by zero.tf;
+sub one by one.tf;
+sub two by two.tf;
+sub three by three.tf;
+sub four by four.tf;
+sub five by five.tf;
+sub six by six.tf;
+sub seven by seven.tf;
+sub eight by eight.tf;
+sub nine by nine.tf;
+";
+tag = tnum;
+},
+{
+automatic = 1;
+code = "sub zero.tf by zero;
+sub one.tf by one;
+sub two.tf by two;
+sub three.tf by three;
+sub four.tf by four;
+sub five.tf by five;
+sub six.tf by six;
+sub seven.tf by seven;
+sub eight.tf by eight;
+sub nine.tf by nine;
+sub zero.lf by zero.osf;
+sub one.lf by one.osf;
+sub two.lf by two.osf;
+sub three.lf by three.osf;
+sub four.lf by four.osf;
+sub five.lf by five.osf;
+sub six.lf by six.osf;
+sub seven.lf by seven.osf;
+sub eight.lf by eight.osf;
+sub nine.lf by nine.osf;
+sub zero by zero.osf;
+sub one by one.osf;
+sub two by two.osf;
+sub three by three.osf;
+sub four by four.osf;
+sub five by five.osf;
+sub six by six.osf;
+sub seven by seven.osf;
+sub eight by eight.osf;
+sub nine by nine.osf;
+";
+tag = onum;
+},
+{
+automatic = 1;
+code = "sub zero by zero.lf;
+sub one by one.lf;
+sub two by two.lf;
+sub three by three.lf;
+sub four by four.lf;
+sub five by five.lf;
+sub six by six.lf;
+sub seven by seven.lf;
+sub eight by eight.lf;
+sub nine by nine.lf;
+sub zero.osf by zero.lf;
+sub one.osf by one.lf;
+sub two.osf by two.lf;
+sub three.osf by three.lf;
+sub four.osf by four.lf;
+sub five.osf by five.lf;
+sub six.osf by six.lf;
+sub seven.osf by seven.lf;
+sub eight.osf by eight.lf;
+sub nine.osf by nine.lf;
+";
+tag = case;
+},
+{
+automatic = 1;
+code = "lookupflag IgnoreMarks;
+sub f f j by f_f_j;
+sub f j by f_j;
+";
+tag = dlig;
+},
+{
+automatic = 1;
+code = "lookupflag IgnoreMarks;
+sub f f i by f_f_i;
+sub f f l by f_f_l;
+sub f f by f_f;
+sub f i by f_i;
+sub f l by f_l;
+";
+tag = liga;
+},
+{
+code = "sub g by g.salt;
+sub a by a.salt;
+sub zero.lf by zero.lf.salt;
+";
+tag = salt;
+},
+{
+automatic = 1;
+code = "sub g by g.ss01;
+";
+labels = (
+{
+language = dflt;
+value = "single-storey g";
+}
+);
+tag = ss01;
+},
+{
+automatic = 1;
+code = "sub a by a.ss02;
+";
+labels = (
+{
+language = dflt;
+value = "single-storey a";
+}
+);
+tag = ss02;
+},
+{
+code = "lookup uppercaseSharpS {
+    sub @Uppercase @Uppercase germandbls' by Germandbls;
+    sub germandbls' @Uppercase by Germandbls;
+} uppercaseSharpS;";
+disabled = 1;
+tag = calt;
+},
+{
+code = "sub zero by zero.lf;
+sub one by one.lf;
+sub two by two.lf;
+sub three by three.lf;
+sub four by four.lf;
+sub five by five.lf;
+sub six by six.lf;
+sub seven by seven.lf;
+sub eight by eight.lf;
+sub nine by nine.lf;
+sub zero.osf by zero.lf;
+sub one.osf by one.lf;
+sub two.osf by two.lf;
+sub three.osf by three.lf;
+sub four.osf by four.lf;
+sub five.osf by five.lf;
+sub six.osf by six.lf;
+sub seven.osf by seven.lf;
+sub eight.osf by eight.lf;
+sub nine.osf by nine.lf;";
+tag = lnum;
+},
+{
+code = "sub zero.lf by zero.lf.salt;";
+tag = zero;
+}
+);
+fontMaster = (
+{
+axesValues = (
+300,
+14
+);
+customParameters = (
+{
+name = "Master Icon Glyph Name";
+value = n;
+}
+);
+iconName = Light;
+id = m004;
+metricValues = (
+{
+over = 10;
+pos = 700;
+},
+{
+over = 10;
+pos = 667;
+},
+{
+over = 10;
+pos = 490;
+},
+{
+over = -10;
+},
+{
+over = -10;
+pos = -200;
+},
+{
+}
+);
+name = Light;
+userData = {
+GSCornerRadius = 15;
+GSOffsetHorizontal = -12.5;
+GSOffsetKeepCompatible = 1;
+GSOffsetVertical = 0;
+};
+},
+{
+axesValues = (
+500,
+14
+);
+customParameters = (
+{
+name = "Master Icon Glyph Name";
+value = n;
+}
+);
+id = m005;
+metricValues = (
+{
+over = 10;
+pos = 700;
+},
+{
+over = 10;
+pos = 667;
+},
+{
+over = 10;
+pos = 490;
+},
+{
+over = -10;
+},
+{
+over = -10;
+pos = -200;
+},
+{
+}
+);
+name = Medium;
+userData = {
+GSCornerRadius = 15;
+GSOffsetHorizontal = 0;
+GSOffsetKeepCompatible = 1;
+GSOffsetVertical = -13;
+};
+},
+{
+axesValues = (
+1000,
+14
+);
+customParameters = (
+{
+name = "Master Icon Glyph Name";
+value = n;
+}
+);
+id = m006;
+metricValues = (
+{
+over = 15;
+pos = 700;
+},
+{
+over = 10;
+pos = 667;
+},
+{
+over = 10;
+pos = 490;
+},
+{
+over = -10;
+},
+{
+over = -15;
+pos = -200;
+},
+{
+}
+);
+name = ExtraBlack;
+userData = {
+GSCornerRadius = 18;
+GSExtrudeAngle = 30;
+GSExtrudeOffset = 15;
+GSOffsetHorizontal = 50;
+GSOffsetKeepCompatible = 1;
+GSOffsetVertical = 23;
+};
+},
+{
+axesValues = (
+300,
+70
+);
+customParameters = (
+{
+name = "Master Icon Glyph Name";
+value = n;
+}
+);
+id = m007;
+metricValues = (
+{
+over = 10;
+pos = 700;
+},
+{
+over = 10;
+pos = 667;
+},
+{
+over = 10;
+pos = 490;
+},
+{
+over = -10;
+},
+{
+over = -10;
+pos = -200;
+},
+{
+}
+);
+name = "Display Light";
+userData = {
+GSCornerRadius = 13;
+GSOffsetHorizontal = -25;
+GSOffsetKeepCompatible = 1;
+GSOffsetVertical = -13;
+};
+},
+{
+axesValues = (
+500,
+70
+);
+customParameters = (
+{
+name = "Master Icon Glyph Name";
+value = n;
+}
+);
+id = m008;
+metricValues = (
+{
+over = 10;
+pos = 700;
+},
+{
+over = 10;
+pos = 667;
+},
+{
+over = 10;
+pos = 490;
+},
+{
+over = -10;
+},
+{
+over = -10;
+pos = -200;
+},
+{
+}
+);
+name = "Display Medium";
+userData = {
+GSCornerRadius = 13;
+GSOffsetHorizontal = 0;
+GSOffsetKeepCompatible = 1;
+GSOffsetVertical = -13;
+};
+},
+{
+axesValues = (
+1000,
+70
+);
+customParameters = (
+{
+name = "Master Icon Glyph Name";
+value = n;
+}
+);
+id = m009;
+metricValues = (
+{
+over = 15;
+pos = 700;
+},
+{
+over = 10;
+pos = 667;
+},
+{
+over = 10;
+pos = 490;
+},
+{
+over = -10;
+},
+{
+over = -15;
+pos = -200;
+},
+{
+}
+);
+name = "Display ExtraBlack";
+userData = {
+GSCornerRadius = 13;
+GSExtrudeAngle = 30;
+GSExtrudeOffset = 15;
+GSOffsetHorizontal = 0;
+GSOffsetKeepCompatible = 1;
+GSOffsetVertical = -25;
+};
+}
+);
+instances = (
+{
+axesValues = (
+300,
+14
+);
+instanceInterpolations = {
+m004 = 1;
+};
+name = Light;
+weightClass = 300;
+},
+{
+axesValues = (
+400,
+14
+);
+instanceInterpolations = {
+m004 = 0.5;
+m005 = 0.5;
+};
+name = Regular;
+},
+{
+axesValues = (
+500,
+14
+);
+instanceInterpolations = {
+m005 = 1;
+};
+name = Medium;
+weightClass = 500;
+},
+{
+axesValues = (
+600,
+14
+);
+instanceInterpolations = {
+m005 = 0.8;
+m006 = 0.2;
+};
+name = SemiBold;
+weightClass = 600;
+},
+{
+axesValues = (
+700,
+14
+);
+instanceInterpolations = {
+m005 = 0.6;
+m006 = 0.4;
+};
+isBold = 1;
+linkStyle = Regular;
+name = Bold;
+weightClass = 700;
+},
+{
+axesValues = (
+900,
+14
+);
+instanceInterpolations = {
+m005 = 0.2;
+m006 = 0.8;
+};
+name = Black;
+weightClass = 900;
+},
+{
+axesValues = (
+1000,
+14
+);
+instanceInterpolations = {
+m006 = 1;
+};
+name = ExtraBlack;
+weightClass = 1000;
+},
+{
+axesValues = (
+300,
+70
+);
+instanceInterpolations = {
+m007 = 1;
+};
+name = "Display Light";
+weightClass = 300;
+},
+{
+axesValues = (
+400,
+70
+);
+instanceInterpolations = {
+m007 = 0.5;
+m008 = 0.5;
+};
+name = "Display Regular";
+},
+{
+axesValues = (
+500,
+70
+);
+instanceInterpolations = {
+m008 = 1;
+};
+name = "Display Medium";
+weightClass = 500;
+},
+{
+axesValues = (
+600,
+70
+);
+instanceInterpolations = {
+m008 = 0.8;
+m009 = 0.2;
+};
+name = "Display SemiBold";
+weightClass = 600;
+},
+{
+axesValues = (
+700,
+70
+);
+instanceInterpolations = {
+m008 = 0.6;
+m009 = 0.4;
+};
+isBold = 1;
+linkStyle = "Display Regular";
+name = "Display Bold";
+weightClass = 700;
+},
+{
+axesValues = (
+900,
+70
+);
+instanceInterpolations = {
+m008 = 0.2;
+m009 = 0.8;
+};
+name = "Display Black";
+weightClass = 900;
+},
+{
+axesValues = (
+1000,
+70
+);
+instanceInterpolations = {
+m009 = 1;
+};
+name = "Display ExtraBlack";
+weightClass = 1000;
+}
+);
+kerningLTR = {
+m004 = {
+"@MMK_L_T" = {
+"@MMK_R_A" = -40;
+AE = -100;
+r = -100;
+};
+"@MMK_L_V" = {
+"@MMK_R_o" = -50;
+a = -30;
+};
+"@MMK_L_Y" = {
+"@MMK_R_o" = -70;
+a = -70;
+};
+"@MMK_L_slash" = {
+slash = -150;
+};
+A = {
+T = -50;
+V = -60;
+};
+F = {
+"@MMK_R_A" = -80;
+"@MMK_R_o" = -60;
+J = -120;
+a = -40;
+};
+L = {
+"@MMK_R_v" = -40;
+T = -70;
+};
+O = {
+H = 0;
+};
+P = {
+"@MMK_R_period" = -120;
+J = -120;
+};
+S = {
+"@MMK_R_V" = -20;
+"@MMK_R_v" = -20;
+T = -20;
+};
+T = {
+a = -100;
+y = -100;
+};
+V = {
+A = -60;
+};
+W = {
+A = -70;
+};
+X = {
+"@MMK_R_v" = -40;
+};
+Z = {
+"@MMK_R_v" = -40;
+};
+f = {
+"@MMK_R_o" = -20;
+};
+hyphen = {
+T = -100;
+};
+l = {
+"@MMK_R_v" = -40;
+};
+r = {
+"@MMK_R_o" = -20;
+"@MMK_R_period" = -120;
+a = -50;
+};
+space = {
+T = -40;
+};
+};
+m005 = {
+"@MMK_L_A" = {
+"@MMK_R_Y" = -100;
+C = -40;
+G = -40;
+H = 0;
+O = -40;
+t = -50;
+};
+"@MMK_L_T" = {
+"@MMK_R_A" = -60;
+AE = -120;
+r = -100;
+};
+"@MMK_L_V" = {
+"@MMK_R_o" = -40;
+a = -50;
+};
+"@MMK_L_Y" = {
+"@MMK_R_A" = -100;
+"@MMK_R_o" = -90;
+a = -90;
+};
+"@MMK_L_slash" = {
+slash = -100;
+};
+A = {
+T = -70;
+V = -100;
+quotedbl = -20;
+quotedblright = -20;
+quotesingle = -40;
+};
+E = {
+O = -20;
+};
+F = {
+"@MMK_R_A" = -90;
+"@MMK_R_o" = -40;
+J = -120;
+a = -50;
+};
+L = {
+"@MMK_R_v" = -60;
+T = -80;
+};
+M = {
+O = -20;
+comma = -40;
+period = -60;
+z = -10;
+};
+O = {
+"@MMK_R_A" = -40;
+};
+P = {
+"@MMK_R_period" = -140;
+J = -120;
+};
+R = {
+comma = -80;
+period = -80;
+};
+S = {
+"@MMK_R_V" = -40;
+"@MMK_R_v" = -30;
+T = -60;
+comma = -40;
+period = -40;
+quotesingle = -20;
+};
+T = {
+a = -100;
+y = -100;
+};
+V = {
+A = -100;
+};
+W = {
+A = -70;
+};
+X = {
+"@MMK_R_v" = -60;
+};
+Y = {
+O = -20;
+comma = -80;
+period = -60;
+z = -40;
+};
+Z = {
+"@MMK_R_v" = -30;
+};
+a = {
+t = -20;
+};
+f = {
+comma = -40;
+f = -30;
+period = -40;
+quotedbl = 20;
+quotesingle = 20;
+};
+hyphen = {
+T = -100;
+};
+l = {
+"@MMK_R_v" = -50;
+};
+r = {
+"@MMK_R_o" = -30;
+"@MMK_R_period" = -140;
+a = -40;
+period = -150;
+};
+s = {
+comma = -20;
+period = -20;
+};
+space = {
+T = -60;
+};
+t = {
+z = 0;
+};
+v = {
+comma = -40;
+period = -40;
+};
+w = {
+comma = -40;
+period = -40;
+};
+y = {
+comma = -40;
+period = -40;
+};
+};
+m006 = {
+"@MMK_L_T" = {
+"@MMK_R_A" = -80;
+AE = -150;
+H = 0;
+r = -100;
+};
+"@MMK_L_V" = {
+"@MMK_R_o" = -60;
+a = -70;
+};
+"@MMK_L_Y" = {
+"@MMK_R_o" = -120;
+a = -120;
+};
+"@MMK_L_hyphen" = {
+T = -100;
+endash = 0;
+};
+"@MMK_L_slash" = {
+slash = -100;
+};
+A = {
+T = -120;
+V = -100;
+};
+F = {
+"@MMK_R_A" = -100;
+"@MMK_R_o" = -40;
+J = -100;
+a = -60;
+};
+L = {
+"@MMK_R_v" = -80;
+T = -150;
+};
+O = {
+F = 0;
+};
+P = {
+"@MMK_R_period" = -160;
+J = -150;
+};
+S = {
+"@MMK_R_V" = -60;
+"@MMK_R_v" = -40;
+T = -60;
+};
+T = {
+a = -100;
+y = -100;
+};
+V = {
+A = -100;
+H = 0;
+};
+W = {
+A = -100;
+};
+X = {
+"@MMK_R_v" = -80;
+};
+Z = {
+"@MMK_R_v" = -40;
+};
+a = {
+u = -30;
+};
+f = {
+"@MMK_R_o" = -20;
+};
+l = {
+"@MMK_R_v" = -40;
+};
+r = {
+"@MMK_R_o" = -30;
+"@MMK_R_period" = -160;
+a = -30;
+};
+space = {
+T = -80;
+};
+};
+m007 = {
+"@MMK_L_T" = {
+"@MMK_R_A" = -40;
+AE = -100;
+r = -100;
+};
+"@MMK_L_V" = {
+"@MMK_R_o" = -50;
+a = -30;
+};
+"@MMK_L_Y" = {
+"@MMK_R_o" = -70;
+a = -70;
+};
+"@MMK_L_slash" = {
+slash = -150;
+};
+A = {
+T = -50;
+V = -60;
+};
+F = {
+"@MMK_R_A" = -80;
+"@MMK_R_o" = -60;
+J = -120;
+a = -40;
+};
+L = {
+"@MMK_R_v" = -40;
+T = -70;
+};
+O = {
+H = 0;
+};
+P = {
+"@MMK_R_period" = -120;
+J = -120;
+};
+S = {
+"@MMK_R_V" = -20;
+"@MMK_R_v" = -20;
+T = -20;
+};
+T = {
+a = -100;
+y = -100;
+};
+V = {
+A = -60;
+};
+W = {
+A = -70;
+};
+X = {
+"@MMK_R_v" = -40;
+};
+Z = {
+"@MMK_R_v" = -40;
+};
+f = {
+"@MMK_R_o" = -20;
+};
+hyphen = {
+T = -100;
+};
+l = {
+"@MMK_R_v" = -40;
+};
+r = {
+"@MMK_R_o" = -20;
+"@MMK_R_period" = -120;
+a = -50;
+};
+space = {
+T = -40;
+};
+};
+m008 = {
+"@MMK_L_A" = {
+"@MMK_R_Y" = -100;
+C = -40;
+G = -40;
+H = 0;
+O = -40;
+t = -50;
+};
+"@MMK_L_T" = {
+"@MMK_R_A" = -60;
+AE = -120;
+r = -100;
+};
+"@MMK_L_V" = {
+"@MMK_R_o" = -40;
+a = -50;
+};
+"@MMK_L_Y" = {
+"@MMK_R_A" = -100;
+"@MMK_R_o" = -90;
+a = -90;
+};
+"@MMK_L_slash" = {
+slash = -100;
+};
+A = {
+T = -70;
+V = -100;
+quotedbl = -20;
+quotedblright = -20;
+quotesingle = -40;
+};
+E = {
+O = -20;
+};
+F = {
+"@MMK_R_A" = -90;
+"@MMK_R_o" = -40;
+J = -120;
+a = -50;
+};
+L = {
+"@MMK_R_v" = -60;
+T = -80;
+};
+M = {
+O = -20;
+comma = -40;
+period = -60;
+z = -10;
+};
+O = {
+"@MMK_R_A" = -40;
+};
+P = {
+"@MMK_R_period" = -140;
+J = -120;
+};
+R = {
+comma = -80;
+period = -80;
+};
+S = {
+"@MMK_R_V" = -40;
+"@MMK_R_v" = -30;
+T = -60;
+comma = -40;
+period = -40;
+quotesingle = -20;
+};
+T = {
+a = -100;
+y = -100;
+};
+V = {
+A = -100;
+};
+W = {
+A = -70;
+};
+X = {
+"@MMK_R_v" = -60;
+};
+Y = {
+O = -20;
+comma = -80;
+period = -60;
+z = -40;
+};
+Z = {
+"@MMK_R_v" = -30;
+};
+a = {
+t = -20;
+};
+f = {
+comma = -40;
+f = -30;
+period = -40;
+quotedbl = 20;
+quotesingle = 20;
+};
+hyphen = {
+T = -100;
+};
+l = {
+"@MMK_R_v" = -50;
+};
+r = {
+"@MMK_R_o" = -30;
+"@MMK_R_period" = -140;
+a = -40;
+period = -150;
+};
+s = {
+comma = -20;
+period = -20;
+};
+space = {
+T = -60;
+};
+t = {
+z = 0;
+};
+v = {
+comma = -40;
+period = -40;
+};
+w = {
+comma = -40;
+period = -40;
+};
+y = {
+comma = -40;
+period = -40;
+};
+};
+m009 = {
+"@MMK_L_T" = {
+"@MMK_R_A" = -80;
+AE = -150;
+H = 0;
+r = -100;
+};
+"@MMK_L_V" = {
+"@MMK_R_o" = -60;
+a = -70;
+};
+"@MMK_L_Y" = {
+"@MMK_R_o" = -120;
+a = -120;
+};
+"@MMK_L_hyphen" = {
+T = -100;
+endash = 0;
+};
+"@MMK_L_slash" = {
+slash = -100;
+};
+A = {
+T = -120;
+V = -100;
+};
+F = {
+"@MMK_R_A" = -100;
+"@MMK_R_o" = -40;
+J = -100;
+a = -60;
+};
+L = {
+"@MMK_R_v" = -80;
+T = -150;
+};
+O = {
+F = 0;
+};
+P = {
+"@MMK_R_period" = -160;
+J = -150;
+};
+S = {
+"@MMK_R_V" = -60;
+"@MMK_R_v" = -40;
+T = -60;
+};
+T = {
+a = -100;
+y = -100;
+};
+V = {
+A = -100;
+H = 0;
+};
+W = {
+A = -100;
+};
+X = {
+"@MMK_R_v" = -80;
+};
+Z = {
+"@MMK_R_v" = -40;
+};
+a = {
+u = -30;
+};
+f = {
+"@MMK_R_o" = -20;
+};
+l = {
+"@MMK_R_v" = -40;
+};
+r = {
+"@MMK_R_o" = -30;
+"@MMK_R_period" = -160;
+a = -30;
+};
+space = {
+T = -80;
+};
+};
+};
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+}
+);
+note = "Light (Thin entfällt)
+- Regular kopieren 
+- verfetten horizontal -12,5 (100 auf 75)
+- Serifen anpassen
+
+Regular
+- vertikal 50 > 60
+
+Black
+- Serifen anpassen
+
+
+Display Light (Thin entfällt)
+- Light kopieren
+- vertikal -12 (50 auf 38)
+- Serifen anpassen
+
+Display Regular
+- vertikal -6 (50 > 44)
+- Serifen anpassen
+
+
+Display Black
+- Black kopieren
+- vertikal -25 (75 > 50)
+- Serifen anpassen
+";
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = ENG;
+value = "Copyright (c) typofactur, 2023. All rights reserved.";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = ENG;
+value = "Simon Atzbach";
+}
+);
+},
+{
+key = familyNames;
+values = (
+{
+language = ENG;
+value = "Aniva Serif";
+}
+);
+},
+{
+key = manufacturers;
+values = (
+{
+language = ENG;
+value = typofactur;
+}
+);
+},
+{
+key = manufacturerURL;
+value = "https://typofactur.de";
+},
+{
+key = postscriptFontName;
+value = "Aniva Serif VF";
+},
+{
+key = postscriptFullName;
+value = "Aniva Serif";
+},
+{
+key = vendorID;
+value = TYFA;
+}
+);
+settings = {
+disablesNiceNames = 1;
+};
+unitsPerEm = 1000;
+userData = {
+GSDimensionPlugin.Dimensions = {
+"05E54F0F-8425-4B5B-B0EB-B578BBC85A7B" = {
+HH = "150";
+HV = "200";
+OH = "150";
+OV = "200";
+nV = "200";
+nd = "125";
+oH = "125";
+oV = "210";
+tH = "125";
+};
+"481D16E4-1E98-4559-AE79-559AF135D401" = {
+HH = "40";
+HV = "50";
+OH = "40";
+OV = "50";
+nV = "50";
+nd = "40";
+oH = "40";
+oV = "50";
+tH = "40";
+};
+m004 = {
+HH = "50";
+HV = "75";
+OH = "50";
+OV = "85";
+nV = "75";
+nd = "50";
+oH = "50";
+oV = "75";
+tH = "50";
+};
+m005 = {
+HH = "60";
+HV = "100";
+OH = "60";
+OV = "110";
+nV = "100";
+nd = "60";
+oH = "60";
+oV = "100";
+tH = "60";
+};
+m006 = {
+HH = "90";
+HV = "200";
+OH = "90";
+OV = "210";
+nV = "200";
+nd = "75";
+oH = "75";
+oV = "210";
+tH = "75";
+};
+m007 = {
+HH = "38";
+HV = "75";
+OH = "38";
+OV = "85";
+nV = "75";
+nd = "38";
+oH = "38";
+oV = "75";
+tH = "38";
+};
+m008 = {
+HH = "44";
+HV = "100";
+OH = "44";
+OV = "110";
+nV = "100";
+nd = "44";
+oH = "44";
+oV = "100";
+tH = "44";
+};
+m009 = {
+HH = "60";
+HV = "200";
+OH = "60";
+OV = "210";
+nV = "200";
+nd = "50";
+oH = "50";
+oV = "210";
+tH = "50";
+};
+m01 = {
+HH = "80";
+HV = "100";
+OH = "80";
+OV = "100";
+nV = "100";
+nd = "75";
+oH = "75";
+oV = "100";
+tH = "70";
+};
+};
+};
+versionMajor = 1;
+versionMinor = 100;
+}

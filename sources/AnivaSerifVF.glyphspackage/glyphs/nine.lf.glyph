@@ -1,0 +1,123 @@
+{
+glyphname = nine.lf;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+angle = 180;
+pos = (493,667);
+ref = six.lf;
+}
+);
+width = 493;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (677,-70);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (327,-70);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (55,-65);
+type = Stem;
+},
+{
+place = (513,-117);
+type = Stem;
+},
+{
+place = (168,-112);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+angle = 180;
+pos = (492,667);
+ref = six.lf;
+}
+);
+width = 492;
+},
+{
+layerId = m006;
+shapes = (
+{
+angle = 180;
+pos = (572,667);
+ref = six.lf;
+}
+);
+width = 572;
+},
+{
+layerId = m007;
+shapes = (
+{
+angle = 180;
+pos = (493,667);
+ref = six.lf;
+}
+);
+width = 493;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (677,-70);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (327,-70);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (55,-65);
+type = Stem;
+},
+{
+place = (513,-117);
+type = Stem;
+},
+{
+place = (168,-112);
+type = Stem;
+}
+);
+layerId = m008;
+shapes = (
+{
+angle = 180;
+pos = (492,667);
+ref = six.lf;
+}
+);
+width = 492;
+},
+{
+layerId = m009;
+shapes = (
+{
+angle = 180;
+pos = (572,667);
+ref = six.lf;
+}
+);
+width = 572;
+}
+);
+metricLeft = "=|six.lf";
+metricRight = "=|six.lf";
+}

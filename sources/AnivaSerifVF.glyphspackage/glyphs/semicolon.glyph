@@ -1,0 +1,111 @@
+{
+glyphname = semicolon;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+pos = (2,0);
+ref = comma;
+},
+{
+pos = (2,415);
+ref = period;
+}
+);
+width = 210;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-5,120);
+type = Stem;
+},
+{
+place = (45,121);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+ref = comma;
+},
+{
+pos = (0,380);
+ref = period;
+}
+);
+width = 245;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = comma;
+},
+{
+pos = (0,310);
+ref = period;
+}
+);
+width = 275;
+},
+{
+layerId = m007;
+shapes = (
+{
+pos = (2,0);
+ref = comma;
+},
+{
+pos = (2,439);
+ref = period;
+}
+);
+width = 267;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-5,120);
+type = Stem;
+},
+{
+place = (45,121);
+type = Stem;
+}
+);
+layerId = m008;
+shapes = (
+{
+ref = comma;
+},
+{
+pos = (0,392);
+ref = period;
+}
+);
+width = 245;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = comma;
+},
+{
+pos = (0,355);
+ref = period;
+}
+);
+width = 275;
+}
+);
+metricLeft = "=comma";
+metricRight = "=comma";
+note = period;
+unicode = 59;
+}

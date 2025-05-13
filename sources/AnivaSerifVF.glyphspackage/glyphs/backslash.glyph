@@ -1,0 +1,101 @@
+{
+glyphname = backslash;
+kernLeft = slash;
+kernRight = slash;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+pos = (423,0);
+ref = slash;
+scale = (-1,1);
+}
+);
+width = 421;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (10,405);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+pos = (425,0);
+ref = slash;
+scale = (-1,1);
+}
+);
+width = 425;
+},
+{
+layerId = m006;
+shapes = (
+{
+pos = (455,0);
+ref = slash;
+scale = (-1,1);
+}
+);
+width = 455;
+},
+{
+layerId = m007;
+shapes = (
+{
+pos = (413,0);
+ref = slash;
+scale = (-1,1);
+}
+);
+width = 412;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (10,405);
+type = Stem;
+}
+);
+layerId = m008;
+shapes = (
+{
+pos = (415,0);
+ref = slash;
+scale = (-1,1);
+}
+);
+width = 415;
+},
+{
+layerId = m009;
+shapes = (
+{
+pos = (495,0);
+ref = slash;
+scale = (-1,1);
+}
+);
+width = 495;
+}
+);
+metricLeft = "=period";
+metricRight = "=period";
+note = backslash;
+unicode = 92;
+}

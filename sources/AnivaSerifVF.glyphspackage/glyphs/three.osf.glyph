@@ -1,0 +1,61 @@
+{
+glyphname = three.osf;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+ref = three;
+}
+);
+width = 463;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = three;
+}
+);
+width = 468;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = three;
+}
+);
+width = 554;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = three;
+}
+);
+width = 463;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = three;
+}
+);
+width = 468;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = three;
+}
+);
+width = 554;
+}
+);
+metricLeft = three;
+metricRight = three;
+}

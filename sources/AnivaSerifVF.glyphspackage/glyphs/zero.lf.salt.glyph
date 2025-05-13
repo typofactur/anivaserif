@@ -1,0 +1,156 @@
+{
+glyphname = zero.lf.salt;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(117,54,l),
+(138,44,l),
+(403,613,l),
+(382,624,l)
+);
+},
+{
+ref = zero.lf;
+}
+);
+width = 521;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-10,80);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (597,80);
+type = Stem;
+},
+{
+place = (35,110);
+type = Stem;
+},
+{
+place = (425,110);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(104,59,l),
+(151,38,l),
+(416,608,l),
+(369,629,l)
+);
+},
+{
+ref = zero.lf;
+}
+);
+width = 520;
+},
+{
+layerId = m006;
+shapes = (
+{
+closed = 1;
+nodes = (
+(142,83,l),
+(210,52,l),
+(458,584,l),
+(390,615,l)
+);
+},
+{
+ref = zero.lf;
+}
+);
+width = 600;
+},
+{
+layerId = m007;
+shapes = (
+{
+closed = 1;
+nodes = (
+(117,54,l),
+(138,44,l),
+(403,613,l),
+(382,624,l)
+);
+},
+{
+ref = zero.lf;
+}
+);
+width = 521;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-10,80);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (597,80);
+type = Stem;
+},
+{
+place = (35,110);
+type = Stem;
+},
+{
+place = (425,110);
+type = Stem;
+}
+);
+layerId = m008;
+shapes = (
+{
+closed = 1;
+nodes = (
+(104,59,l),
+(151,38,l),
+(416,608,l),
+(369,629,l)
+);
+},
+{
+ref = zero.lf;
+}
+);
+width = 520;
+},
+{
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(142,83,l),
+(210,52,l),
+(458,584,l),
+(390,615,l)
+);
+},
+{
+ref = zero.lf;
+}
+);
+width = 600;
+}
+);
+metricLeft = "=zero.lf";
+metricRight = "=zero.lf";
+note = O;
+}

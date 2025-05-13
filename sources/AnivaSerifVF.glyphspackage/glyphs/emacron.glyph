@@ -1,0 +1,84 @@
+{
+glyphname = emacron;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (-6,0);
+ref = macroncomb;
+}
+);
+width = 464;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (-5,0);
+ref = macroncomb;
+}
+);
+width = 465;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (25,0);
+ref = macroncomb;
+}
+);
+width = 525;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (-6,0);
+ref = macroncomb;
+}
+);
+width = 464;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (-5,-50);
+ref = macroncomb;
+}
+);
+width = 465;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (15,0);
+ref = macroncomb;
+}
+);
+width = 505;
+}
+);
+unicode = 275;
+}

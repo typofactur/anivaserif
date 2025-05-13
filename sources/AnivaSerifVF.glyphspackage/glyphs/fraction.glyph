@@ -1,0 +1,78 @@
+{
+export = 0;
+glyphname = fraction;
+layers = (
+{
+layerId = m004;
+width = 600;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (10,405);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(415,700,l),
+(360,728,l),
+(10,0,l),
+(65,-28,l)
+);
+}
+);
+width = 416;
+},
+{
+layerId = m006;
+width = 600;
+},
+{
+layerId = m007;
+width = 600;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (10,405);
+type = Stem;
+}
+);
+layerId = m008;
+shapes = (
+{
+closed = 1;
+nodes = (
+(415,700,l),
+(360,728,l),
+(10,0,l),
+(65,-28,l)
+);
+}
+);
+width = 416;
+},
+{
+layerId = m009;
+width = 600;
+}
+);
+note = fraction;
+unicode = 8260;
+}

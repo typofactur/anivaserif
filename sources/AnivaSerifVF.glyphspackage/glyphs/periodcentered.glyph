@@ -1,0 +1,89 @@
+{
+glyphname = periodcentered;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+pos = (139,213);
+ref = period;
+}
+);
+width = 500;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (193,120);
+type = Stem;
+},
+{
+place = (78,120);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+pos = (140,195);
+ref = period;
+}
+);
+width = 500;
+},
+{
+layerId = m006;
+shapes = (
+{
+pos = (125,160);
+ref = period;
+}
+);
+width = 500;
+},
+{
+layerId = m007;
+shapes = (
+{
+pos = (139,225);
+ref = period;
+}
+);
+width = 500;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (193,120);
+type = Stem;
+},
+{
+place = (78,120);
+type = Stem;
+}
+);
+layerId = m008;
+shapes = (
+{
+pos = (140,201);
+ref = period;
+}
+);
+width = 500;
+},
+{
+layerId = m009;
+shapes = (
+{
+pos = (125,183);
+ref = period;
+}
+);
+width = 500;
+}
+);
+note = periodcentered;
+unicode = 183;
+}

@@ -1,0 +1,84 @@
+{
+glyphname = ygrave;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (10,-10);
+ref = gravecomb;
+}
+);
+width = 519;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (12,-10);
+ref = gravecomb;
+}
+);
+width = 523;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (63,-10);
+ref = gravecomb;
+}
+);
+width = 623;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (10,-10);
+ref = gravecomb;
+}
+);
+width = 519;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (12,-10);
+ref = gravecomb;
+}
+);
+width = 523;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (53,-10);
+ref = gravecomb;
+}
+);
+width = 603;
+}
+);
+unicode = 7923;
+}

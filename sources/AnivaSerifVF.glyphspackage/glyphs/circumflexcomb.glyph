@@ -1,0 +1,191 @@
+{
+glyphname = circumflexcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (250,500);
+},
+{
+name = top;
+pos = (250,700);
+}
+);
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(250,725,l),
+(89,606,l),
+(116,567,l),
+(250,649,l),
+(384,567,l),
+(411,606,l)
+);
+}
+);
+width = 500;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (250,500);
+},
+{
+name = top;
+pos = (250,725);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (555,170);
+type = Stem;
+},
+{
+place = (80,340);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(250,730,l),
+(80,605,l),
+(110,560,l),
+(250,645,l),
+(390,560,l),
+(420,605,l)
+);
+}
+);
+width = 500;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (250,500);
+},
+{
+name = top;
+pos = (250,750);
+}
+);
+layerId = m006;
+shapes = (
+{
+closed = 1;
+nodes = (
+(250,750,l),
+(50,603,l),
+(101,527,l),
+(250,617,l),
+(399,527,l),
+(450,603,l)
+);
+}
+);
+width = 500;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (250,500);
+},
+{
+name = top;
+pos = (250,700);
+}
+);
+layerId = m007;
+shapes = (
+{
+closed = 1;
+nodes = (
+(250,725,l),
+(89,606,l),
+(116,567,l),
+(250,649,l),
+(384,567,l),
+(411,606,l)
+);
+}
+);
+width = 500;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (250,500);
+},
+{
+name = top;
+pos = (250,725);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (555,170);
+type = Stem;
+},
+{
+place = (80,340);
+type = Stem;
+}
+);
+layerId = m008;
+shapes = (
+{
+closed = 1;
+nodes = (
+(250,730,l),
+(80,605,l),
+(110,560,l),
+(250,645,l),
+(390,560,l),
+(420,605,l)
+);
+}
+);
+width = 500;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (250,500);
+},
+{
+name = top;
+pos = (250,750);
+}
+);
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(250,750,l),
+(50,603,l),
+(101,527,l),
+(250,617,l),
+(399,527,l),
+(450,603,l)
+);
+}
+);
+width = 500;
+}
+);
+note = circumflex;
+unicode = 770;
+}

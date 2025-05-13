@@ -1,0 +1,84 @@
+{
+glyphname = less;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+pos = (600,0);
+ref = greater;
+scale = (-1,1);
+}
+);
+width = 600;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (218,65);
+type = Stem;
+},
+{
+place = (248,65);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+pos = (600,0);
+ref = greater;
+scale = (-1,1);
+}
+);
+width = 600;
+},
+{
+layerId = m006;
+shapes = (
+{
+pos = (600,0);
+ref = greater;
+scale = (-1,1);
+}
+);
+width = 600;
+},
+{
+layerId = m007;
+shapes = (
+{
+pos = (600,0);
+ref = greater;
+scale = (-1,1);
+}
+);
+width = 600;
+},
+{
+layerId = m008;
+shapes = (
+{
+pos = (600,0);
+ref = greater;
+scale = (-1,1);
+}
+);
+width = 600;
+},
+{
+layerId = m009;
+shapes = (
+{
+pos = (600,0);
+ref = greater;
+scale = (-1,1);
+}
+);
+width = 600;
+}
+);
+note = plus;
+unicode = 60;
+}

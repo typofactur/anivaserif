@@ -1,0 +1,303 @@
+{
+glyphname = idotless;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (136,0);
+},
+{
+name = ogonek;
+pos = (255,0);
+},
+{
+name = top;
+pos = (136,490);
+}
+);
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(186,0,l),
+(186,480,l),
+(111,480,l),
+(111,0,l)
+);
+},
+{
+pos = (111,0);
+ref = _serif.H;
+},
+{
+pos = (186,0);
+ref = _serif.H;
+scale = (-1,1);
+},
+{
+pos = (111,0);
+ref = _serif.i;
+}
+);
+width = 272;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (137,0);
+},
+{
+name = ogonek;
+pos = (268,0);
+},
+{
+name = top;
+pos = (137,490);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (25,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (610,145);
+type = Stem;
+},
+{
+place = (73,145);
+type = Stem;
+},
+{
+place = (85,120);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(199,0,l),
+(199,480,l),
+(99,480,l),
+(99,0,l)
+);
+},
+{
+pos = (99,0);
+ref = _serif.H;
+},
+{
+pos = (199,0);
+ref = _serif.H;
+scale = (-1,1);
+},
+{
+pos = (99,0);
+ref = _serif.i;
+}
+);
+width = 273;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (179,0);
+},
+{
+name = ogonek;
+pos = (348,0);
+},
+{
+name = top;
+pos = (179,490);
+}
+);
+layerId = m006;
+shapes = (
+{
+closed = 1;
+nodes = (
+(279,0,l),
+(279,480,l),
+(79,480,l),
+(79,0,l)
+);
+},
+{
+pos = (79,0);
+ref = _serif.H;
+},
+{
+pos = (279,0);
+ref = _serif.H;
+scale = (-1,1);
+},
+{
+pos = (79,0);
+ref = _serif.i;
+}
+);
+width = 358;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (136,0);
+},
+{
+name = ogonek;
+pos = (255,0);
+},
+{
+name = top;
+pos = (136,490);
+}
+);
+layerId = m007;
+shapes = (
+{
+closed = 1;
+nodes = (
+(186,0,l),
+(186,479,l),
+(111,480,l),
+(111,0,l)
+);
+},
+{
+pos = (111,0);
+ref = _serif.H;
+},
+{
+pos = (186,0);
+ref = _serif.H;
+scale = (-1,1);
+},
+{
+pos = (111,0);
+ref = _serif.i;
+}
+);
+width = 272;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (137,0);
+},
+{
+name = ogonek;
+pos = (268,0);
+},
+{
+name = top;
+pos = (137,490);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (25,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (610,145);
+type = Stem;
+},
+{
+place = (73,145);
+type = Stem;
+},
+{
+place = (85,120);
+type = Stem;
+}
+);
+layerId = m008;
+shapes = (
+{
+closed = 1;
+nodes = (
+(199,0,l),
+(199,480,l),
+(99,480,l),
+(99,0,l)
+);
+},
+{
+pos = (99,0);
+ref = _serif.H;
+},
+{
+pos = (199,0);
+ref = _serif.H;
+scale = (-1,1);
+},
+{
+pos = (99,0);
+ref = _serif.i;
+}
+);
+width = 273;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (169,0);
+},
+{
+name = ogonek;
+pos = (338,0);
+},
+{
+name = top;
+pos = (169,490);
+}
+);
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(269,0,l),
+(269,480,l),
+(69,480,l),
+(69,0,l)
+);
+},
+{
+pos = (69,0);
+ref = _serif.H;
+},
+{
+pos = (269,0);
+ref = _serif.H;
+scale = (-1,1);
+},
+{
+pos = (69,0);
+ref = _serif.i;
+}
+);
+width = 338;
+}
+);
+metricLeft = "=n";
+metricRight = "=n";
+note = i;
+unicode = 305;
+}

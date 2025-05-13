@@ -1,0 +1,84 @@
+{
+glyphname = Abreve;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (121,125);
+ref = brevecomb;
+}
+);
+width = 651;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (109,167);
+ref = brevecomb;
+}
+);
+width = 640;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (129,167);
+ref = brevecomb;
+}
+);
+width = 768;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (117,177);
+ref = brevecomb;
+}
+);
+width = 649;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (109,167);
+ref = brevecomb;
+}
+);
+width = 640;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (99,167);
+ref = brevecomb;
+}
+);
+width = 738;
+}
+);
+unicode = 258;
+}

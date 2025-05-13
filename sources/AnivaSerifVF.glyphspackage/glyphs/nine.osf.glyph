@@ -1,0 +1,61 @@
+{
+glyphname = nine.osf;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+ref = nine;
+}
+);
+width = 517;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = nine;
+}
+);
+width = 517;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = nine;
+}
+);
+width = 587;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = nine;
+}
+);
+width = 517;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = nine;
+}
+);
+width = 517;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = nine;
+}
+);
+width = 577;
+}
+);
+metricLeft = nine;
+metricRight = nine;
+}

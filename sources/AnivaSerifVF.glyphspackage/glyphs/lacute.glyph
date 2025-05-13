@@ -1,0 +1,84 @@
+{
+glyphname = lacute;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+ref = l;
+},
+{
+pos = (-132,200);
+ref = acutecomb;
+}
+);
+width = 237;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = l;
+},
+{
+pos = (-132,200);
+ref = acutecomb;
+}
+);
+width = 238;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = l;
+},
+{
+pos = (-89,200);
+ref = acutecomb;
+}
+);
+width = 323;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = l;
+},
+{
+pos = (-132,200);
+ref = acutecomb;
+}
+);
+width = 237;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = l;
+},
+{
+pos = (-132,200);
+ref = acutecomb;
+}
+);
+width = 238;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = l;
+},
+{
+pos = (-106,200);
+ref = acutecomb;
+}
+);
+width = 303;
+}
+);
+unicode = 314;
+}

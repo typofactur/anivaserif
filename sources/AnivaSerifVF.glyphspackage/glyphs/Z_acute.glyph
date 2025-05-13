@@ -1,0 +1,84 @@
+{
+glyphname = Zacute;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (1,167);
+ref = acutecomb;
+}
+);
+width = 504;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (7,167);
+ref = acutecomb;
+}
+);
+width = 515;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (33,167);
+ref = acutecomb;
+}
+);
+width = 568;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (1,167);
+ref = acutecomb;
+}
+);
+width = 504;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (7,167);
+ref = acutecomb;
+}
+);
+width = 515;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (33,167);
+ref = acutecomb;
+}
+);
+width = 567;
+}
+);
+unicode = 377;
+}

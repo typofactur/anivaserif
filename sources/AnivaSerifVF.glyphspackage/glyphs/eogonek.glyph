@@ -1,0 +1,84 @@
+{
+glyphname = eogonek;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (-53,22);
+ref = ogonekcomb;
+}
+);
+width = 464;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (-60,40);
+ref = ogonekcomb;
+}
+);
+width = 465;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (5,40);
+ref = ogonekcomb;
+}
+);
+width = 525;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (-53,22);
+ref = ogonekcomb;
+}
+);
+width = 464;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (-60,40);
+ref = ogonekcomb;
+}
+);
+width = 465;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (-5,40);
+ref = ogonekcomb;
+}
+);
+width = 505;
+}
+);
+unicode = 281;
+}

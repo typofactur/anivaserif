@@ -1,0 +1,84 @@
+{
+glyphname = zdotaccent;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (-43,-10);
+ref = dotaccentcomb;
+}
+);
+width = 393;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (-46,-10);
+ref = dotaccentcomb;
+}
+);
+width = 407;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (-6,-10);
+ref = dotaccentcomb;
+}
+);
+width = 487;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (-35,-10);
+ref = dotaccentcomb;
+}
+);
+width = 393;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (-46,-10);
+ref = dotaccentcomb;
+}
+);
+width = 407;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (-11,-10);
+ref = dotaccentcomb;
+}
+);
+width = 477;
+}
+);
+unicode = 380;
+}

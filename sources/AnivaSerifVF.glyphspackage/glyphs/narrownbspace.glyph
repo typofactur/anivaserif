@@ -1,0 +1,30 @@
+{
+glyphname = narrownbspace;
+layers = (
+{
+layerId = m004;
+width = 176;
+},
+{
+layerId = m005;
+width = 176;
+},
+{
+layerId = m006;
+width = 200;
+},
+{
+layerId = m007;
+width = 176;
+},
+{
+layerId = m008;
+width = 176;
+},
+{
+layerId = m009;
+width = 200;
+}
+);
+unicode = 8239;
+}

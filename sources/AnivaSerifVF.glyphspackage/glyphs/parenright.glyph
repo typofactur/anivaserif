@@ -1,0 +1,74 @@
+{
+glyphname = parenright;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+pos = (273,0);
+ref = parenleft;
+scale = (-1,1);
+}
+);
+width = 248;
+},
+{
+layerId = m005;
+shapes = (
+{
+pos = (278,0);
+ref = parenleft;
+scale = (-1,1);
+}
+);
+width = 253;
+},
+{
+layerId = m006;
+shapes = (
+{
+pos = (313,0);
+ref = parenleft;
+scale = (-1,1);
+}
+);
+width = 313;
+},
+{
+layerId = m007;
+shapes = (
+{
+pos = (273,0);
+ref = parenleft;
+scale = (-1,1);
+}
+);
+width = 248;
+},
+{
+layerId = m008;
+shapes = (
+{
+pos = (278,0);
+ref = parenleft;
+scale = (-1,1);
+}
+);
+width = 253;
+},
+{
+layerId = m009;
+shapes = (
+{
+pos = (298,0);
+ref = parenleft;
+scale = (-1,1);
+}
+);
+width = 298;
+}
+);
+metricLeft = "=n/2";
+metricRight = "=n";
+unicode = 41;
+}

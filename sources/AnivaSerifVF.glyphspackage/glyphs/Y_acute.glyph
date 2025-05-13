@@ -1,0 +1,84 @@
+{
+glyphname = Yacute;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (78,167);
+ref = acutecomb;
+}
+);
+width = 627;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (62,167);
+ref = acutecomb;
+}
+);
+width = 590;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (147,167);
+ref = acutecomb;
+}
+);
+width = 678;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (83,167);
+ref = acutecomb;
+}
+);
+width = 627;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (62,167);
+ref = acutecomb;
+}
+);
+width = 578;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (156,167);
+ref = acutecomb;
+}
+);
+width = 678;
+}
+);
+unicode = 221;
+}

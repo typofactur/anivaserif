@@ -1,0 +1,229 @@
+{
+glyphname = Euro;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(445,373,l),
+(461,423,l),
+(33,423,l),
+(33,373,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(407,258,l),
+(424,308,l),
+(33,308,l),
+(33,258,l)
+);
+},
+{
+pos = (50,0);
+ref = C;
+}
+);
+width = 556;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-10,85);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (261,50);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (357,50);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (597,80);
+type = Stem;
+},
+{
+place = (85,110);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(443,375,l),
+(462,435,l),
+(20,435,l),
+(20,375,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(404,255,l),
+(423,315,l),
+(20,315,l),
+(20,255,l)
+);
+},
+{
+pos = (47,0);
+ref = C;
+}
+);
+width = 558;
+},
+{
+layerId = m006;
+shapes = (
+{
+closed = 1;
+nodes = (
+(455,356,l),
+(485,446,l),
+(10,446,l),
+(10,356,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(416,236,l),
+(445,326,l),
+(10,326,l),
+(10,236,l)
+);
+},
+{
+pos = (49,0);
+ref = C;
+}
+);
+width = 586;
+},
+{
+layerId = m007;
+shapes = (
+{
+closed = 1;
+nodes = (
+(448,379,l),
+(460,417,l),
+(33,417,l),
+(33,379,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(410,264,l),
+(423,302,l),
+(33,302,l),
+(33,264,l)
+);
+},
+{
+pos = (50,0);
+ref = C;
+}
+);
+width = 556;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-10,85);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (261,50);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (357,50);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (597,80);
+type = Stem;
+},
+{
+place = (85,110);
+type = Stem;
+}
+);
+layerId = m008;
+shapes = (
+{
+closed = 1;
+nodes = (
+(446,383,l),
+(461,427,l),
+(20,427,l),
+(20,383,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(407,263,l),
+(422,307,l),
+(20,307,l),
+(20,263,l)
+);
+},
+{
+pos = (47,0);
+ref = C;
+}
+);
+width = 558;
+},
+{
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(460,371,l),
+(480,431,l),
+(10,431,l),
+(10,371,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(421,251,l),
+(441,311,l),
+(10,311,l),
+(10,251,l)
+);
+},
+{
+pos = (49,0);
+ref = C;
+}
+);
+width = 586;
+}
+);
+metricLeft = "=C";
+metricRight = "=C";
+note = Euro;
+unicode = 8364;
+}

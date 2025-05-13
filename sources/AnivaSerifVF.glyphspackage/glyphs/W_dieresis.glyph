@@ -1,0 +1,84 @@
+{
+glyphname = Wdieresis;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (214,167);
+ref = dieresiscomb;
+}
+);
+width = 908;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (208,167);
+ref = dieresiscomb;
+}
+);
+width = 896;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (332,167);
+ref = dieresiscomb;
+}
+);
+width = 1144;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (202,167);
+ref = dieresiscomb;
+}
+);
+width = 884;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (192,167);
+ref = dieresiscomb;
+}
+);
+width = 864;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (302,167);
+ref = dieresiscomb;
+}
+);
+width = 1084;
+}
+);
+unicode = 7812;
+}

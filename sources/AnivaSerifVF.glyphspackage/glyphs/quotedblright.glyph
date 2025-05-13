@@ -1,0 +1,113 @@
+{
+glyphname = quotedblright;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+angle = 180;
+pos = (450,1220);
+ref = quotedblleft;
+}
+);
+width = 450;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (440,120);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (670,35);
+type = Stem;
+},
+{
+place = (45,51);
+type = Stem;
+},
+{
+place = (221,51);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+angle = 180;
+pos = (440,1160);
+ref = quotedblleft;
+}
+);
+width = 440;
+},
+{
+layerId = m006;
+shapes = (
+{
+angle = 180;
+pos = (530,1060);
+ref = quotedblleft;
+}
+);
+width = 530;
+},
+{
+layerId = m007;
+shapes = (
+{
+angle = 180;
+pos = (450,1220);
+ref = quotedblleft;
+}
+);
+width = 450;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (440,120);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (670,35);
+type = Stem;
+},
+{
+place = (45,51);
+type = Stem;
+},
+{
+place = (221,51);
+type = Stem;
+}
+);
+layerId = m008;
+shapes = (
+{
+angle = 180;
+pos = (440,1160);
+ref = quotedblleft;
+}
+);
+width = 440;
+},
+{
+layerId = m009;
+shapes = (
+{
+angle = 180;
+pos = (530,1060);
+ref = quotedblleft;
+}
+);
+width = 530;
+}
+);
+note = quotedblleft;
+unicode = 8221;
+}
