@@ -1439,14 +1439,6 @@ key = manufacturerURL;
 value = "https://typofactur.de";
 },
 {
-key = postscriptFontName;
-value = "Aniva Serif";
-},
-{
-key = postscriptFullName;
-value = "Aniva Serif";
-},
-{
 key = vendorID;
 value = TYFA;
 }
